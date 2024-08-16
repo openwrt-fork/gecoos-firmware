@@ -30,6 +30,7 @@ jobs:
   download:
     needs: crawler
     strategy:
+      max-parallel: 1
       matrix:
         config-tag: ${{ fromJSON(needs.crawler.outputs.matrix) }}
     uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@master
