@@ -35,3 +35,4 @@ jobs:
     uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@master
     with:
       config-tag: ${{ matrix.config-tag }}
+    secrets: inherit
