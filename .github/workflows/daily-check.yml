@@ -11,7 +11,7 @@ jobs:
   crawler:
     runs-on: ubuntu-latest
     outputs:
-      tags: ${{ steps.test.outputs.tags }}
+      matrix: ${{ steps.test.outputs.matrix }}
     steps:
       - uses: actions/checkout@v4
 
@@ -26,12 +26,12 @@ jobs:
         run: |
           chmod +x gecoos-crawler
           ./gecoos-crawler stable
-          echo "tags=["abc1","abc2","abc3"]" >> $GITHUB_OUTPUT
+          echo "matrix=["abc1","abc2","abc3"]" >> $GITHUB_OUTPUT
   download:
     needs: crawler
     strategy:
       matrix:
-        target: [ ${{ fromJSON(needs.crawler.outputs.tags) }}]
+        target: ${{ fromJSON(needs.crawler.outputs.matrix) }}
     uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@main
     with:
       target: ${{ matrix.target }}
