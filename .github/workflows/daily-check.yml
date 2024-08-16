@@ -11,7 +11,7 @@ jobs:
   crawler:
     runs-on: ubuntu-latest
     outputs:
-      matrix: ${{ steps.test.outputs.matrix }}
+      matrix: ${{ steps.stable.outputs.matrix }}
     steps:
       - uses: actions/checkout@v4
 
@@ -21,8 +21,8 @@ jobs:
           latest: true
           fileName: 'gecoos-crawler'
           token: ${{ secrets.ORG_GITHUB_TOKEN }}
-      - name: Test
-        id: test
+      - name: crawl stable
+        id: stable
         run: |
           chmod +x gecoos-crawler
           ./gecoos-crawler stable -g $GITHUB_OUTPUT
