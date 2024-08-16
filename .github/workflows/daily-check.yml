@@ -1,0 +1,22 @@
+name: daily-check
+
+on: workflow_dispatch
+permissions:
+  contents: write
+  actions: write
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: robinraju/release-downloader@v1
+        with:
+          repository: 'openwrt-fork/gecoos-crawler'
+          latest: true
+          fileName: 'gecoos-crawler'
+      - name: Test
+        run: |
+          chomd +x gecoos-crawler
+          ./gecoos-crawler
