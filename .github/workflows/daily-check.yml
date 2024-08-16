@@ -24,7 +24,7 @@ jobs:
       - name: crawl stable
         id: stable
         run: |
-          chmod +x gecoos-crawler
+#          chmod +x gecoos-crawler
           ./gecoos-crawler stable -g $GITHUB_OUTPUT
   download:
     needs: crawler
