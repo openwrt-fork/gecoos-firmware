@@ -31,7 +31,7 @@ jobs:
     needs: crawler
     strategy:
       matrix:
-        target: ${{ fromJSON(needs.crawler.outputs.matrix) }}
+        config-tag: ${{ fromJSON(needs.crawler.outputs.matrix) }}
     uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@main
     with:
-      target: ${{ matrix.target }}
+      config-tag: ${{ matrix.config-tag }}
