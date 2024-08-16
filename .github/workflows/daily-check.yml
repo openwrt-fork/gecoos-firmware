@@ -18,6 +18,7 @@ jobs:
           repository: 'openwrt-fork/gecoos-crawler'
           latest: true
           fileName: 'gecoos-crawler'
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Test
         run: |
           chomd +x gecoos-crawler
