@@ -25,8 +25,7 @@ jobs:
         id: test
         run: |
           chmod +x gecoos-crawler
-          ./gecoos-crawler stable
-          echo "matrix=[\"abc1\",\"abc2\",\"abc3\"]" >> $GITHUB_OUTPUT
+          ./gecoos-crawler stable -g $GITHUB_OUTPUT
   download:
     needs: crawler
     strategy:
