@@ -6,10 +6,12 @@ on:
 permissions:
   contents: write
   actions: write
-jobs:
 
-  build:
+jobs:
+  crawler:
     runs-on: ubuntu-latest
+    outputs:
+      tags: ${{ steps.test.outputs.tags }}
     steps:
       - uses: actions/checkout@v4
 
@@ -20,6 +22,16 @@ jobs:
           fileName: 'gecoos-crawler'
           token: ${{ secrets.ORG_GITHUB_TOKEN }}
       - name: Test
+        id: test
         run: |
           chmod +x gecoos-crawler
-          ./gecoos-crawler
+          ./gecoos-crawler stable
+          echo "tags=abc1,abc2,abc3" >> $GITHUB_OUTPUT
+  download:
+    needs: crawler
+    strategy:
+      matrix:
+        target: [ ${{ needs.crawler.outputs.tags }}]
+    uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@main
+    with:
+      target: ${{ matrix.target }}

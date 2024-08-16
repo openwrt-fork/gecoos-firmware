@@ -1,0 +1,23 @@
+name: download firmware
+on:
+  workflow_call:
+    inputs:
+      config-tag:
+        description: 'download tag'
+        required: true
+        type: string
+
+jobs:
+  crawler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: robinraju/release-downloader@v1
+        with:
+          repository: 'openwrt-fork/gecoos-crawler'
+          latest: true
+          fileName: 'gecoos-crawler'
+          token: ${{ secrets.ORG_GITHUB_TOKEN }}
+      - name: Test
+        run: echo The download Tag is ${{ inputs.config-tag }}
