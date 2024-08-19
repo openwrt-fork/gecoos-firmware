@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.stable.outputs.matrix }}
+      branch: ${{ steps.branch.outputs.branch }}
     steps:
       - uses: actions/checkout@v4
 
@@ -34,7 +35,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         if: steps.branch.outputs.branch != '' && !cancelled()
         with:
-          commit_message: ${{ steps.branch.outputs.branch }}
+          commit_message: Action ${{ steps.branch.outputs.branch }}
           branch: ${{ steps.branch.outputs.branch }}
           file_pattern: 'history/*.json'
           create_branch: true
@@ -48,8 +49,9 @@ jobs:
     uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@master
     with:
       tag: ${{ matrix.tag }}
+      branch: ${{ needs.crawler.outputs.branch }}
     secrets: inherit
-  commit:
+  merge-branch:
     runs-on: ubuntu-latest
     needs: [ crawler,download ]
     steps:
