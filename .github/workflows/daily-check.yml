@@ -34,8 +34,8 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         if: steps.branch.outputs.branch != '' && !cancelled()
         with:
-          commit_message: ${{ steps.stable.branch.branch }}
-          branch: ${{ steps.stable.branch.branch }}
+          commit_message: ${{ steps.branch.outputs.branch }}
+          branch: ${{ steps.branch.outputs.branch }}
           file_pattern: 'history/*.json'
           create_branch: true
   download:
