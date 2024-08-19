@@ -2,7 +2,7 @@ name: download firmware
 on:
   workflow_call:
     inputs:
-      config-tag:
+      tag:
         description: 'download tag'
         required: true
         type: string
@@ -19,5 +19,7 @@ jobs:
           latest: true
           fileName: 'gecoos-crawler'
           token: ${{ secrets.ORG_GITHUB_TOKEN }}
-      - name: Test
-        run: echo The download Tag is ${{ inputs.config-tag }}
+      - name: download firmwares
+        run: |
+          chmod +x gecoos-crawler
+          ./gecoos-crawler download -t ${{ inputs.tag }}
