@@ -1,0 +1,29 @@
+[
+    {
+        "FileName": "X1-8.0.50.trx",
+        "Version": "8.0.50",
+        "Md5": "299215a0c54b6cc7689aa65d959d7c94",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X1",
+        "ReleaseDate": "2019-11-15",
+        "DownloadUrl": "/index.php/Index/download/id/10.html"
+    },
+    {
+        "FileName": "X2-8.0.50.trx",
+        "Version": "8.0.50",
+        "Md5": "374d987b9204287e944dc236df5ae1ad",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X2",
+        "ReleaseDate": "2019-11-15",
+        "DownloadUrl": "/index.php/Index/download/id/11.html"
+    },
+    {
+        "FileName": "M10E-8.0.50.trx",
+        "Version": "8.0.50",
+        "Md5": "7663d1c408455d0cfbb09641b40cec5a",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "M10E",
+        "ReleaseDate": "2019-11-15",
+        "DownloadUrl": "/index.php/Index/download/id/14.html"
+    }
+]
