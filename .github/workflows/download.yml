@@ -25,6 +25,17 @@ jobs:
           fileName: 'gecoos-crawler'
           token: ${{ secrets.ORG_GITHUB_TOKEN }}
       - name: download firmwares
+        id: download
         run: |
           chmod +x gecoos-crawler
-          ./gecoos-crawler download -t ${{ inputs.tag }}
+          ./gecoos-crawler download -t ${{ inputs.tag }} -g $GITHUB_OUTPUT
+      - name: Upload firmware to release
+        uses: softprops/action-gh-release@master
+        if: steps.download.outputs.status == 'success' && !cancelled()
+        env:
+          GITHUB_TOKEN: ${{ secrets.ORG_GITHUB_TOKEN }}
+        with:
+          name: ${{ steps.download.outputs.release_name }}
+          tag_name: ${{ steps.download.outputs.tag_name }}
+          files: |
+            output/*
