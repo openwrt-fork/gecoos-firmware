@@ -1,0 +1,110 @@
+[
+    {
+        "FileName": "JIKEAP_B128Y_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "B128Y",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_B128Y_MT7628_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_B130_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "B130",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_B130_MT7628_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_C2000_MT7620_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "C2000",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_C2000_MT7620_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP100_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP100",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP100_MT7628_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP20_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP20",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP20_MT7628_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP230EP_MT7620_withPA_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP230EP",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP230EP_MT7620_withPA_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP230IP_MT7620_noPA_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP230IP",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP230IP_MT7620_noPA_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP238AN_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP238AN",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP238AN_MT7628_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP243P_MT7621_MT7603_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP243P",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP243P_MT7621_MT7603_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP245P_MT7621_MT7615_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP245P",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP245P_MT7621_MT7615_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_IAP319_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "IAP319",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_IAP319_MT7628_2.0_2021111800.bin"
+    },
+    {
+        "FileName": "JIKEAP_VPN51_MT7628_2.0_2021111800.bin",
+        "Version": "2.0_2021111800",
+        "Md5": "",
+        "DeviceType": "集客微路由_MTK",
+        "DeviceInfo": "VPN51",
+        "ReleaseDate": "20211118",
+        "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_VPN51_MT7628_2.0_2021111800.bin"
+    }
+]

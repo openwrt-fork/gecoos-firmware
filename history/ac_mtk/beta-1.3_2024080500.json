@@ -1,0 +1,38 @@
+[
+    {
+        "FileName": "GECOOS_AC128_MT7621_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "",
+        "DeviceType": "集客AC控制器",
+        "DeviceInfo": "AC128",
+        "ReleaseDate": "20240805",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC128_MT7621_1.3_2024080500.bin"
+    },
+    {
+        "FileName": "GECOOS_AC7620_MT7620_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "",
+        "DeviceType": "集客AC控制器",
+        "DeviceInfo": "AC7620",
+        "ReleaseDate": "20240805",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7620_MT7620_FREE_1.3_2024080500.bin"
+    },
+    {
+        "FileName": "GECOOS_AC7621_MT7621_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "",
+        "DeviceType": "集客AC控制器",
+        "DeviceInfo": "AC7621",
+        "ReleaseDate": "20240805",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7621_MT7621_FREE_1.3_2024080500.bin"
+    },
+    {
+        "FileName": "GECOOS_AC7628_MT7628_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "",
+        "DeviceType": "集客AC控制器",
+        "DeviceInfo": "AC7628",
+        "ReleaseDate": "20240805",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2024080500.bin"
+    }
+]
