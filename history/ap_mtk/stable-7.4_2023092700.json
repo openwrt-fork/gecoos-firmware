@@ -1,0 +1,38 @@
+[
+    {
+        "FileName": "GECOOS_AX2018FTR_mt7621_K4_EPORT_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "69df98cfce5a8b56bed99e5a90488ef0",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX2018FTR",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/327.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000AMX_mt7981_K4_WIFI6_3000M_2_5G_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "fda1cf31fec6d3f0dac6565f21e1358a",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX3000AMX",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/335.html"
+    },
+    {
+        "FileName": "GECOOS_AP250MD_mt7981_K4_NAND_UBI_AUTO_FREE_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "afb8e32bc766bcd227670a6de5ddd9b4",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP250MD",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/337.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000AM_mt7981_K4_WIFI6_3000M_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "4d268cdc5130a21335d28766c0a820cc",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX3000AM",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/338.html"
+    }
+]

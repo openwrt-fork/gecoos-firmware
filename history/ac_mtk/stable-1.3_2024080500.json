@@ -1,0 +1,38 @@
+[
+    {
+        "FileName": "GECOOS_AC128_mt7621_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "5c85aaded95ccc5a228c17874d7cf4e5",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC128",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/306.html"
+    },
+    {
+        "FileName": "GECOOS_AC7621_mt7621_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "a0c328c0b08d80cbb2c89e334f79d2bd",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC7621",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/307.html"
+    },
+    {
+        "FileName": "GECOOS_AC7628_mt7628_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "f0f9f6aa036878ee8c616163ec09231a",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC7628",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/308.html"
+    },
+    {
+        "FileName": "GECOOS_AC7620_mt7620_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "6ae77f67ccf223153c1ddc5a265a9050",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC7620",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/309.html"
+    }
+]

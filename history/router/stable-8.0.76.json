@@ -1,0 +1,83 @@
+[
+    {
+        "FileName": "MP3012-8.076.trx",
+        "Version": "8.0.76",
+        "Md5": "eae4bf8db15e823090a09522a9fb4a2e",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "MP3012",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/12.html"
+    },
+    {
+        "FileName": "M3020-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "ceed06106e9c68c5faf3e00841abc68b",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "M3020",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/13.html"
+    },
+    {
+        "FileName": "MP2000-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "f8c981ebb7077fe5c3d481e78b8bcf3d",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "MP2000",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/37.html"
+    },
+    {
+        "FileName": "MP3010-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "032c243308f868f1bcf0e210911920f0",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "MP3010",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/114.html"
+    },
+    {
+        "FileName": "X3-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "50c5e462d1581e51b0a357e0213d69d5",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X3",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/272.html"
+    },
+    {
+        "FileName": "K2P-8.0.76.trx-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "4048f3f16c43aaa55d0e49fe1df392fa",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "K2P",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/291.html"
+    },
+    {
+        "FileName": "NEWIFI3-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "1f864d1791a94a1979bd0fdb831211a5",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "NEWIFI3",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/293.html"
+    },
+    {
+        "FileName": "X1PRO-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "225f9aa4fdc583bbe1d6ac9e05fbe375",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X1PRO",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/310.html"
+    },
+    {
+        "FileName": "X30-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "83d2227e256c2d789a2fd0b510a7e03f",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X30",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/311.html"
+    }
+]

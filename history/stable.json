@@ -1,0 +1,749 @@
+[
+    {
+        "FileName": "X1-8.0.50.trx",
+        "Version": "8.0.50",
+        "Md5": "299215a0c54b6cc7689aa65d959d7c94",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X1",
+        "ReleaseDate": "2019-11-15",
+        "DownloadUrl": "/index.php/Index/download/id/10.html"
+    },
+    {
+        "FileName": "X2-8.0.50.trx",
+        "Version": "8.0.50",
+        "Md5": "374d987b9204287e944dc236df5ae1ad",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X2",
+        "ReleaseDate": "2019-11-15",
+        "DownloadUrl": "/index.php/Index/download/id/11.html"
+    },
+    {
+        "FileName": "MP3012-8.076.trx",
+        "Version": "8.0.76",
+        "Md5": "eae4bf8db15e823090a09522a9fb4a2e",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "MP3012",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/12.html"
+    },
+    {
+        "FileName": "M3020-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "ceed06106e9c68c5faf3e00841abc68b",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "M3020",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/13.html"
+    },
+    {
+        "FileName": "M10E-8.0.50.trx",
+        "Version": "8.0.50",
+        "Md5": "7663d1c408455d0cfbb09641b40cec5a",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "M10E",
+        "ReleaseDate": "2019-11-15",
+        "DownloadUrl": "/index.php/Index/download/id/14.html"
+    },
+    {
+        "FileName": "SQ300-1.4_2018072600.bin",
+        "Version": "1.4_2018072600",
+        "Md5": "00bc5fbcf31a5c96fcceecd84f47326e",
+        "DeviceType": "无线神器",
+        "DeviceInfo": "SQ300",
+        "ReleaseDate": "2018-07-26",
+        "DownloadUrl": "/index.php/Index/download/id/20.html"
+    },
+    {
+        "FileName": "BR240L-1.5_2018072600.bin",
+        "Version": "1.5_2018072600",
+        "Md5": "7406e4d3b80db5bf1916bebb8b8201c2",
+        "DeviceType": "数码网桥",
+        "DeviceInfo": "BR240L",
+        "ReleaseDate": "2018-07-26",
+        "DownloadUrl": "/index.php/Index/download/id/30.html"
+    },
+    {
+        "FileName": "MP2000-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "f8c981ebb7077fe5c3d481e78b8bcf3d",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "MP2000",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/37.html"
+    },
+    {
+        "FileName": "MP3010-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "032c243308f868f1bcf0e210911920f0",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "MP3010",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/114.html"
+    },
+    {
+        "FileName": "GECOOS_X86GW_3.1_2024080600.upg",
+        "Version": "3.1_2024080600",
+        "Md5": "f9b763aa4c7003fe14c6a09c99378874",
+        "DeviceType": "集客网关(X86)",
+        "DeviceInfo": "集客网关升级包",
+        "ReleaseDate": "2024-08-06",
+        "DownloadUrl": "/index.php/Index/download/id/115.html"
+    },
+    {
+        "FileName": "b1fe2b79d4bf0510cca67c9c9891648a.rar",
+        "Version": "3.1_2021111900",
+        "Md5": "b1fe2b79d4bf0510cca67c9c9891648a",
+        "DeviceType": "集客网关(X86)",
+        "DeviceInfo": "集客网关安装包",
+        "ReleaseDate": "2021-11-19",
+        "DownloadUrl": "/index.php/Index/download/id/116.html"
+    },
+    {
+        "FileName": "GECOOS_AP110T_QCA933X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "c895af9fa0d9ccbc0a58c43dfb178c15",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP110T",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/121.html"
+    },
+    {
+        "FileName": "GECOOS_AP130T_QCA934X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "448ae9f951c5c69339f6e23b5899ba5e",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP130T",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/123.html"
+    },
+    {
+        "FileName": "GECOOS_AP875H_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "29fef3517c7f1e58b6c263a92a2125b3",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP875H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/125.html"
+    },
+    {
+        "FileName": "GECOOS_AP675_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "bb1ef33b034dc856262ce6af275e016b",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP675",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/126.html"
+    },
+    {
+        "FileName": "GECOOS_AP112F_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "cfe96769684f908c3b9b3eddfc995cae",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP112F",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/127.html"
+    },
+    {
+        "FileName": "GECOOS_AP941_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "3b8dead60fb53c3255f08db1902a96d3",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP941",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/128.html"
+    },
+    {
+        "FileName": "GECOOS_AP126F_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "e7540002bafb82beecd510b07e5d294a",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP126F",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/129.html"
+    },
+    {
+        "FileName": "GECOOS_AP630_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "38f539be5b372980139f932f11c41458",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP630",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/130.html"
+    },
+    {
+        "FileName": "GECOOS_AP116F_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "1c4c3067acc528302eaa0248a8700c53",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP116F",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/131.html"
+    },
+    {
+        "FileName": "GECOOS_AP260F-H_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "87f271ceb3e300c622473c21713d8b32",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP260F-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/132.html"
+    },
+    {
+        "FileName": "GECOOS_AP130F-H_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "87e58d50a60e03b00ef5a34c7121164d",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP130F-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/133.html"
+    },
+    {
+        "FileName": "GECOOS_AP830H_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "a6e91cea709fc26aa8b0b992a0efa9a8",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP830H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/134.html"
+    },
+    {
+        "FileName": "GECOOS_AP630v2_AP630V2_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "4fac49c0b59a66f692dae09ce33c3efd",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP630 v2",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/135.html"
+    },
+    {
+        "FileName": "GECOOS_AP112Fv2_AP112FV2_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "b463262a7f73a63fa89cf7a0ababd98f",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP112F v2",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/136.html"
+    },
+    {
+        "FileName": "GECOOS_AP267F-H_QCA956X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "c8be11bc68986c73e5bff4e012aed624",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP267F-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/137.html"
+    },
+    {
+        "FileName": "GECOOS_AP267F-Hv2_AP267F-HV2_QCA956X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "5df4d1a35c1e1d280d6724365e8dc70c",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP267F-H v2",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/138.html"
+    },
+    {
+        "FileName": "GECOOS_AP262Y-H_QCA956X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "68e4caebd55cc7e19eda3a45da9cafec",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP262Y-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/139.html"
+    },
+    {
+        "FileName": "GECOOS_AP266G-H_QCA955X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "09b26c04eb943a4a47b7c73a8f511e14",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP266G-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/140.html"
+    },
+    {
+        "FileName": "GECOOS_AP269X-HG_IPQ40XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "90ddd7abaa2a87c3b6cb557fbd720f91",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP269X-HG",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/165.html"
+    },
+    {
+        "FileName": "X3-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "50c5e462d1581e51b0a357e0213d69d5",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X3",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/272.html"
+    },
+    {
+        "FileName": "GECOOS_AP238AN_mt7628_K4_LEEEL_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "3660f474c6d9d4430c6abd0b3fcb81d5",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP238AN",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/281.html"
+    },
+    {
+        "FileName": "GECOOS_AP242P_mt7621_K4_LLLLL_64M_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "14b446a4cdabf0924f7751a95c5eb570",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP242P",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/282.html"
+    },
+    {
+        "FileName": "GECOOS_AP243P_mt7621_K4_LEEEL_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "7c4efca80c284457c58267ccf99137bf",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP243P",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/283.html"
+    },
+    {
+        "FileName": "GECOOS_AP230IP_mt7620_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "ed4aee6c362a6a3f37f166714caeccfa",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP230IP",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/285.html"
+    },
+    {
+        "FileName": "GECOOS_AP230EP_mt7620_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "f14e0c764b65bf6fe5f59988245c5b3e",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP230EP",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/286.html"
+    },
+    {
+        "FileName": "GECOOS_AP601_mt7620_K4_LEEEE_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "b1c5b4a8ea801a6f83821eb139a9e89f",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP601",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/287.html"
+    },
+    {
+        "FileName": "GECOOS_AP220G_AP220G_QCA956X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "45037d3675e67ab56d235e52ce0833b9",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP220G",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/289.html"
+    },
+    {
+        "FileName": "K2P-8.0.76.trx-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "4048f3f16c43aaa55d0e49fe1df392fa",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "K2P",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/291.html"
+    },
+    {
+        "FileName": "NEWIFI3-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "1f864d1791a94a1979bd0fdb831211a5",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "NEWIFI3",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/293.html"
+    },
+    {
+        "FileName": "GECOOS_CM520_IPQ40XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "51cf687baf49a8f3d4292c64e07d3f5f",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "CM520",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/294.html"
+    },
+    {
+        "FileName": "GECOOS_AP261Y-H_QCA953X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "e1969de87820f1a9f9638587e83d87e3",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP261Y-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/295.html"
+    },
+    {
+        "FileName": "GECOOS_AP9558_QCA955X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "f9d79918da4a9dbd4de5127fd5dd921e",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP9558",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/296.html"
+    },
+    {
+        "FileName": "GECOOS_AP285F-H_IPQ40XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "9c71f705476b79fdd861e1e016f43bc1",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP285F-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/297.html"
+    },
+    {
+        "FileName": "GECOOS_AP263YS_QCA956X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "0e4e03dc44a31965c5351b428180b923",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP263YS",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/298.html"
+    },
+    {
+        "FileName": "GECOOS_ACRH17_IPQ40XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "815df4783444ad0f567b129a9f7f93ad",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "ACRH17",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/300.html"
+    },
+    {
+        "FileName": "GECOOS_AP246P_mt7621_K4_MT7603_MT7615N_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "c6bd6fc0c8829390dfb29f66a9ff5bba",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP246P",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/301.html"
+    },
+    {
+        "FileName": "GECOOS_AP210G_mt7620_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "7447ec2f051896bfca0148ba962487e4",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP210G",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/302.html"
+    },
+    {
+        "FileName": "GECOOS_AP246HI_mt7621_K4_1000_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "7522f40edd5d557cd53d9e4c2832d98b",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP246HI",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/304.html"
+    },
+    {
+        "FileName": "GECOOS_AC128_mt7621_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "5c85aaded95ccc5a228c17874d7cf4e5",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC128",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/306.html"
+    },
+    {
+        "FileName": "GECOOS_AC7621_mt7621_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "a0c328c0b08d80cbb2c89e334f79d2bd",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC7621",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/307.html"
+    },
+    {
+        "FileName": "GECOOS_AC7628_mt7628_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "f0f9f6aa036878ee8c616163ec09231a",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC7628",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/308.html"
+    },
+    {
+        "FileName": "GECOOS_AC7620_mt7620_FREE_1.3_2024080500.bin",
+        "Version": "1.3_2024080500",
+        "Md5": "6ae77f67ccf223153c1ddc5a265a9050",
+        "DeviceType": "AC控制器（MTK）",
+        "DeviceInfo": "AC7620",
+        "ReleaseDate": "2024-08-05",
+        "DownloadUrl": "/index.php/Index/download/id/309.html"
+    },
+    {
+        "FileName": "X1PRO-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "225f9aa4fdc583bbe1d6ac9e05fbe375",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X1PRO",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/310.html"
+    },
+    {
+        "FileName": "X30-8.0.76.trx",
+        "Version": "8.0.76",
+        "Md5": "83d2227e256c2d789a2fd0b510a7e03f",
+        "DeviceType": "企业路由",
+        "DeviceInfo": "X30",
+        "ReleaseDate": "2023-03-03",
+        "DownloadUrl": "/index.php/Index/download/id/311.html"
+    },
+    {
+        "FileName": "GECOOS_B3000_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "64e40a61efca486fea8e2b18de3c1847",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "B3000",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/312.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000FY_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "c9f2117db2e18a5a3c8bf0241767a886",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX3000FY",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/313.html"
+    },
+    {
+        "FileName": "GECOOS_N3000_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "1020a20cd94f1417f67f2c8431fdc365",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "N3000",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/314.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000FX_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "0b6d467fe5118c9af624ba4bb6418ce8",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX3000FX",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/315.html"
+    },
+    {
+        "FileName": "GECOOS_AX2030A_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "076bcace7ddd06036c25bf63526e2442",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX2030A",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/316.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000F_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "a091b1c9f8c5ce9d1e6a7c70d4b43aab",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX3000F",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/317.html"
+    },
+    {
+        "FileName": "GECOOS_AX8300A-SFP_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "14f37858a9674e1a771603b6ced4f08d",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX8300A-SFP",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/318.html"
+    },
+    {
+        "FileName": "GECOOS_WP963_IPQ50XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "6ddc8ab63c9c9e0bd766bcc38e132440",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "WP963",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/319.html"
+    },
+    {
+        "FileName": "GECOOS_AX3025Y_IPQ807X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "a91d4ada00cbca5f6988c4eb090cb54b",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX3025Y",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/320.html"
+    },
+    {
+        "FileName": "GECOOS_AX1800F_IPQ60XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "b23bb456ae3ae0337cf4e1ec08c05562",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX1800F",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/321.html"
+    },
+    {
+        "FileName": "GECOOS_AX1800Y_IPQ60XX_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "c0acb022d9d615622c64b336beb6b704",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AX1800Y",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/322.html"
+    },
+    {
+        "FileName": "GECOOS_AP9344_35P4_AP9344P4_QCA934X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "ce74966342accf40b4deeed5a063d47d",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP9344_35P4",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/323.html"
+    },
+    {
+        "FileName": "GECOOS_AP9344_35P0_AP9344P0_QCA934X_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "71a8a57010373f051603993571a4e19e",
+        "DeviceType": "集客无线AP(高通)",
+        "DeviceInfo": "AP9344_35P0",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/324.html"
+    },
+    {
+        "FileName": "GECOOS_AP212G_mt7621_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "af254979560db04ec86a376e3ac57b46",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP212G",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/325.html"
+    },
+    {
+        "FileName": "GECOOS_AX1800FM_mt7621_K4_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "a97ddaaed05b4e4c61e1d086c696c332",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX1800FM",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/326.html"
+    },
+    {
+        "FileName": "GECOOS_AX2018FTR_mt7621_K4_EPORT_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "69df98cfce5a8b56bed99e5a90488ef0",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX2018FTR",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/327.html"
+    },
+    {
+        "FileName": "GECOOS_AP261F-H_mt7621_K4_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "cd67fd1b0692998660abdbedfae3b34d",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP261F-H",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/328.html"
+    },
+    {
+        "FileName": "GECOOS_AX2021_mt7621_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "7c46048e9b070beed1ed59cc645382c3",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX2021",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/329.html"
+    },
+    {
+        "FileName": "GECOOS_AX2020_mt7621_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "7b4943bf089db31b33310c33ee40af75",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX2020",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/330.html"
+    },
+    {
+        "FileName": "GECOOS_AX2022_mt7621_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "f4d7619b5fd34ee73407c627608a414b",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX2022",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/331.html"
+    },
+    {
+        "FileName": "GECOOS_AP118F_mt7628_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "dbe06eb848e97106e672ac6956ce6fc0",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP118F",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/332.html"
+    },
+    {
+        "FileName": "GECOOS_AP118Y_mt7628_K4_EPORT_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "6eb0615d18507a9d7b3bbfb9f10ef4ee",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP118Y",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/333.html"
+    },
+    {
+        "FileName": "GECOOS_AP250_mt7981_K4_WIFI6_3000M_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "3db50182cbab614915bfc50c908b1df3",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP250",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/334.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000AMX_mt7981_K4_WIFI6_3000M_2_5G_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "fda1cf31fec6d3f0dac6565f21e1358a",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX3000AMX",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/335.html"
+    },
+    {
+        "FileName": "GECOOS_AX2030FM_mt7981_K4_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "20b02c6c70a638143cccb74f06bca145",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX2030FM",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/336.html"
+    },
+    {
+        "FileName": "GECOOS_AP250MD_mt7981_K4_NAND_UBI_AUTO_FREE_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "afb8e32bc766bcd227670a6de5ddd9b4",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AP250MD",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/337.html"
+    },
+    {
+        "FileName": "GECOOS_AX3000AM_mt7981_K4_WIFI6_3000M_7.4_2023092700.bin",
+        "Version": "7.4_2023092700",
+        "Md5": "4d268cdc5130a21335d28766c0a820cc",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX3000AM",
+        "ReleaseDate": "2023-09-27",
+        "DownloadUrl": "/index.php/Index/download/id/338.html"
+    },
+    {
+        "FileName": "GECOOS_AX3025FM_mt7981_K4_8.0_2024081000.bin",
+        "Version": "8.0_2024081000",
+        "Md5": "9b0fe199ddfdd83943530543696b2599",
+        "DeviceType": "集客无线AP(MTK)",
+        "DeviceInfo": "AX3025FM",
+        "ReleaseDate": "2024-08-10",
+        "DownloadUrl": "/index.php/Index/download/id/339.html"
+    }
+]
