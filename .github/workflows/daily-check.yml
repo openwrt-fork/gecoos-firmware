@@ -32,7 +32,7 @@ jobs:
         run: |
           echo "branch=stable-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
-        if: steps.stable.branch.branch != '' && !cancelled()
+        if: steps.branch.outputs.branch != '' && !cancelled()
         with:
           commit_message: ${{ steps.stable.branch.branch }}
           branch: ${{ steps.stable.branch.branch }}
