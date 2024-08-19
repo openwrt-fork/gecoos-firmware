@@ -56,14 +56,11 @@ jobs:
     needs: [ crawler,download ]
     steps:
       - uses: actions/checkout@v4
-      - uses: robinraju/release-downloader@v1
         with:
-          repository: 'openwrt-fork/gecoos-crawler'
-          latest: true
-          fileName: 'gecoos-crawler'
-          token: ${{ secrets.ORG_GITHUB_TOKEN }}
-      - name: crawl stable
-        id: stable
-        run: |
-          chmod +x gecoos-crawler
-          ./gecoos-crawler stable -g $GITHUB_OUTPUT
+          ref: ${{ needs.crawler.outputs.branch }}
+      - uses: everlytic/branch-merge@1.1.2
+        with:
+          github_token: ${{ secrets.ORG_GITHUB_TOKEN }}
+          source_ref: ${{ needs.crawler.outputs.branch }}
+          target_branch: 'master'
+          commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'
