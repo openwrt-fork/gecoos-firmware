@@ -1,0 +1,66 @@
+name: daily-check-stable
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  crawler:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.stable.outputs.matrix }}
+      branch: ${{ steps.branch.outputs.branch }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: robinraju/release-downloader@v1
+        with:
+          repository: 'openwrt-fork/gecoos-crawler'
+          latest: true
+          fileName: 'gecoos-crawler'
+          token: ${{ secrets.ORG_GITHUB_TOKEN }}
+      - name: crawl stable
+        id: stable
+        run: |
+          chmod +x gecoos-crawler
+          ./gecoos-crawler stable -g $GITHUB_OUTPUT
+      - name: Generate commit branch
+        id: branch
+        if: steps.stable.outputs.matrix != '' && !cancelled()
+        run: |
+          echo "branch=stable-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        if: steps.branch.outputs.branch != '' && !cancelled()
+        with:
+          commit_message: Action ${{ steps.branch.outputs.branch }}
+          branch: ${{ steps.branch.outputs.branch }}
+          file_pattern: 'history/*.json'
+          create_branch: true
+  download:
+    needs: crawler
+    if: ${{ needs.crawler.outputs.matrix != '' }}
+    strategy:
+      max-parallel: 1
+      matrix:
+        tag: ${{ fromJSON(needs.crawler.outputs.matrix) }}
+    uses: openwrt-fork/gecoos-firmware/.github/workflows/download.yml@master
+    with:
+      tag: ${{ matrix.tag }}
+      branch: ${{ needs.crawler.outputs.branch }}
+    secrets: inherit
+  merge-branch:
+    runs-on: ubuntu-latest
+    needs: [ crawler,download ]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.crawler.outputs.branch }}
+      - uses: everlytic/branch-merge@1.1.2
+        with:
+          github_token: ${{ secrets.ORG_GITHUB_TOKEN }}
+          source_ref: ${{ needs.crawler.outputs.branch }}
+          target_branch: 'master'
+          commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'

@@ -29,7 +29,6 @@ jobs:
         run: |
           chmod +x gecoos-crawler
           ./gecoos-crawler download -t ${{ inputs.tag }} -g $GITHUB_OUTPUT
-          cat $GITHUB_OUTPUT
       - name: Upload firmware to release
         uses: softprops/action-gh-release@master
         if: steps.download.outputs.status == 'success' && !cancelled()

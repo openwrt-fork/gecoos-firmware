@@ -1,4 +1,4 @@
-name: daily-check
+name: daily-check-beta
 
 on:
   repository_dispatch:
@@ -11,7 +11,7 @@ jobs:
   crawler:
     runs-on: ubuntu-latest
     outputs:
-      matrix: ${{ steps.stable.outputs.matrix }}
+      matrix: ${{ steps.beta.outputs.matrix }}
       branch: ${{ steps.branch.outputs.branch }}
     steps:
       - uses: actions/checkout@v4
@@ -22,16 +22,16 @@ jobs:
           latest: true
           fileName: 'gecoos-crawler'
           token: ${{ secrets.ORG_GITHUB_TOKEN }}
-      - name: crawl stable
-        id: stable
+      - name: crawl beta
+        id: beta
         run: |
           chmod +x gecoos-crawler
-          ./gecoos-crawler stable -g $GITHUB_OUTPUT
+          ./gecoos-crawler beta -g $GITHUB_OUTPUT
       - name: Generate commit branch
         id: branch
-        if: steps.stable.outputs.matrix != '' && !cancelled()
+        if: steps.beta.outputs.matrix != '' && !cancelled()
         run: |
-          echo "branch=stable-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
+          echo "branch=beta-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
         if: steps.branch.outputs.branch != '' && !cancelled()
         with:
