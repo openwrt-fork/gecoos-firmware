@@ -38,5 +38,6 @@ jobs:
           name: ${{ steps.download.outputs.release_name }}
           tag_name: ${{ steps.download.outputs.tag_name }}
           prerelease: ${{ steps.download.outputs.prerelease }}
+          body_path: release.md
           files: |
             output/*
