@@ -1,6 +1,8 @@
 name: daily-check-beta
 
 on:
+  schedule:
+    - cron: "30 19 * * *"
   repository_dispatch:
   workflow_dispatch:
 permissions:
