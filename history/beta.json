@@ -940,7 +940,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "AP268F-IoT",
+        "DeviceInfo": "AP268F-IoT_AP268IOT",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_AP268F-IoT_AP268IOT_IPQ40XX_8.0_2024082800.bin"
     },
@@ -1750,7 +1750,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP281Y-H",
+        "DeviceInfo": "AP281Y-H_AP281YV2",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP281Y-H_AP281YV2_QCA956X_8.0_2024082800.bin"
     },
