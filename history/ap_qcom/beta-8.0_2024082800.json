@@ -220,7 +220,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "AX3000F-SFP",
+        "DeviceInfo": "AX3000F-SFP_AX3000FX",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_AX3000F-SFP_AX3000FX_IPQ50XX_SFP_8.0_2024082800.bin"
     },
@@ -355,7 +355,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "AX8325Q-SFP",
+        "DeviceInfo": "AX8325Q-SFP_AX8325QF0",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_AX8325Q-SFP_AX8325QF0_IPQ50XX_SFP_8.0_2024082800.bin"
     },
@@ -364,7 +364,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "AX8325Q-SFP",
+        "DeviceInfo": "AX8325Q-SFP_AX8325QF",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_AX8325Q-SFP_AX8325QF_IPQ50XX_SFP_8.0_2024082800.bin"
     },
@@ -373,7 +373,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "AX8540Q-3",
+        "DeviceInfo": "AX8540Q-3_AX8540Q0",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_AX8540Q-3_AX8540Q0_IPQ50XX_SFP_8.0_2024082800.bin"
     },
@@ -382,7 +382,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "AX8540Q-3",
+        "DeviceInfo": "AX8540Q-3_AX8540Q",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_AX8540Q-3_AX8540Q_IPQ50XX_SFP_8.0_2024082800.bin"
     },
@@ -490,7 +490,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_ARM",
-        "DeviceInfo": "WP973",
+        "DeviceInfo": "WP973_V0",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_ARM/JIKEAP_WP973_V0_IPQ50XX_NOR_NAND_8.0_2024082800.bin"
     },
@@ -589,7 +589,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP112Fv2",
+        "DeviceInfo": "AP112F v2",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP112Fv2_AP112FV2_QCA953X_100M_8M_EPORT_8.0_2024082800.bin"
     },
@@ -832,7 +832,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP267F-Hv2",
+        "DeviceInfo": "AP267F-H v2",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP267F-Hv2_AP267F-HV2_QCA956X_1000M_QCA9886_8.0_2024082800.bin"
     },
@@ -940,7 +940,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP630v2",
+        "DeviceInfo": "AP630 v2",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP630v2_AP630V2_QCA953X_100M_EPORT_8.0_2024082800.bin"
     },
@@ -976,7 +976,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP9344",
+        "DeviceInfo": "AP9344_35P0",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP9344_35P0_AP9344P0_QCA934X_1000M_8.0_2024082800.bin"
     },
@@ -985,7 +985,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP9344",
+        "DeviceInfo": "AP9344_35P4",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP9344_35P4_AP9344P4_QCA934X_1000M_8.0_2024082800.bin"
     },
@@ -994,7 +994,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP9344",
+        "DeviceInfo": "AP9344_8327",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP9344_8327_QCA934X_1000M_8.0_2024082800.bin"
     },
@@ -1003,7 +1003,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP9344",
+        "DeviceInfo": "AP9344_M100",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP9344_M100_QCA934X_100M_8.0_2024082800.bin"
     },
@@ -1012,7 +1012,7 @@
         "Version": "8.0_2024082800",
         "Md5": "",
         "DeviceType": "集客AP_高通_MIPS",
-        "DeviceInfo": "AP9344",
+        "DeviceInfo": "AP9344_RTL",
         "ReleaseDate": "20240828",
         "DownloadUrl": "/upload/test/集客AP_高通_MIPS/JIKEAP_AP9344_RTL_QCA934X_1000M_8.0_2024082800.bin"
     },
