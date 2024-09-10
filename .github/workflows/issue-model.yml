@@ -56,3 +56,6 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           title: "[${{ steps.issue-parser.outputs.issueparser_Brand }}${{ steps.issue-parser.outputs.issueparser_BrandEn && '/' }}${{ steps.issue-parser.outputs.issueparser_BrandEn}}]${{ steps.issue-parser.outputs.issueparser_Model }}"
           state: closed
+      - uses: imajeetyadav/delete-merged-branches@main
+        with:
+          branch: master
