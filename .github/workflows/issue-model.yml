@@ -8,7 +8,7 @@ permissions:
   actions: write
 
 jobs:
-  gennel:
+  add-model:
     runs-on: ubuntu-latest
     if: github.event.issue.state_reason == 'completed'
     steps:
@@ -27,11 +27,11 @@ jobs:
           latest: true
           fileName: 'gecoos-crawler'
           token: ${{ secrets.ORG_GITHUB_TOKEN }}
-      - name: update readme
+      - name: add model
         id: beta
         run: |
           chmod +x gecoos-crawler
-          ./gecoos-crawler model -id ${{ github.event.issue.number }}  -i ${HOME}/issue-parser-result.json
+          ./gecoos-crawler model -i ${{ github.event.issue.number }}  -d ${HOME}/issue-parser-result.json
           ./gecoos-crawler readme
       - name: Generate commit branch
         id: branch
