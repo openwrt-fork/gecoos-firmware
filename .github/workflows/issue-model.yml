@@ -31,15 +31,27 @@ jobs:
         id: beta
         run: |
           chmod +x gecoos-crawler
-#      - name: Generate commit branch
-#        id: branch
-#        if: steps.beta.outputs.matrix != '' && !cancelled()
-#        run: |
-#          echo "branch=beta-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
-#      - uses: stefanzweifel/git-auto-commit-action@v5
-#        if: steps.branch.outputs.branch != '' && !cancelled()
-#        with:
-#          commit_message: Action ${{ steps.branch.outputs.branch }}
-#          branch: ${{ steps.branch.outputs.branch }}
-#          file_pattern: 'history/*.json'
-#          create_branch: true
+          ./gecoos-crawler model -id ${{ github.event.issue.number }}  -i ${HOME}/issue-parser-result.json
+          ./gecoos-crawler readme
+      - name: Generate commit branch
+        id: branch
+        run: |
+          echo "branch=issue-model-${{ github.event.issue.number }}" >> $GITHUB_OUTPUT
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        if: steps.branch.outputs.branch != '' && !cancelled()
+        with:
+          commit_message: Action ${{ steps.branch.outputs.branch }}
+          branch: ${{ steps.branch.outputs.branch }}
+          file_pattern: 'modelsMap.json README.md'
+          create_branch: true
+      - uses: everlytic/branch-merge@1.1.2
+        with:
+          github_token: ${{ secrets.ORG_GITHUB_TOKEN }}
+          source_ref: ${{ needs.crawler.outputs.branch }}
+          target_branch: 'master'
+          commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'
+      - uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'update-issue'
+          issue-number: ${{ github.event.issue.number }}
+          title: "[${{ steps.issue-parser.outputs.issueparser_Brand }}${{ steps.issue-parser.outputs.issueparser_BrandEn && '/' }}${{ steps.issue-parser.outputs.issueparser_BrandEn}}]${{ steps.issue-parser.outputs.issueparser_Model }}"

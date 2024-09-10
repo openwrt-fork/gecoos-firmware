@@ -40,7 +40,7 @@ jobs:
         with:
           commit_message: Action ${{ steps.branch.outputs.branch }}
           branch: ${{ steps.branch.outputs.branch }}
-          file_pattern: 'history/*.json'
+          file_pattern: 'history/*.json README.md'
           create_branch: true
   download:
     needs: crawler

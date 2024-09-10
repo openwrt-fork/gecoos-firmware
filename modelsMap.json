@@ -1,0 +1,702 @@
+{
+    "AC58U": {
+        "DeviceInfo": "AC58U",
+        "SupportedModels": null
+    },
+    "ACRH17": {
+        "DeviceInfo": "ACRH17",
+        "SupportedModels": null
+    },
+    "AP0141": {
+        "DeviceInfo": "AP0141",
+        "SupportedModels": null
+    },
+    "AP107IOT": {
+        "DeviceInfo": "AP107IOT",
+        "SupportedModels": null
+    },
+    "AP110F": {
+        "DeviceInfo": "AP110F",
+        "SupportedModels": null
+    },
+    "AP110T": {
+        "DeviceInfo": "AP110T",
+        "SupportedModels": null
+    },
+    "AP112F": {
+        "DeviceInfo": "AP112F",
+        "SupportedModels": null
+    },
+    "AP112F v2": {
+        "DeviceInfo": "AP112F v2",
+        "SupportedModels": null
+    },
+    "AP112J": {
+        "DeviceInfo": "AP112J",
+        "SupportedModels": null
+    },
+    "AP112Q": {
+        "DeviceInfo": "AP112Q",
+        "SupportedModels": null
+    },
+    "AP112T": {
+        "DeviceInfo": "AP112T",
+        "SupportedModels": null
+    },
+    "AP112Y": {
+        "DeviceInfo": "AP112Y",
+        "SupportedModels": null
+    },
+    "AP116F": {
+        "DeviceInfo": "AP116F",
+        "SupportedModels": null
+    },
+    "AP116Q": {
+        "DeviceInfo": "AP116Q",
+        "SupportedModels": null
+    },
+    "AP117Q": {
+        "DeviceInfo": "AP117Q",
+        "SupportedModels": null
+    },
+    "AP118A": {
+        "DeviceInfo": "AP118A",
+        "SupportedModels": null
+    },
+    "AP118F": {
+        "DeviceInfo": "AP118F",
+        "SupportedModels": null
+    },
+    "AP118F_AP118F0": {
+        "DeviceInfo": "AP118F_AP118F0",
+        "SupportedModels": null
+    },
+    "AP118L": {
+        "DeviceInfo": "AP118L",
+        "SupportedModels": null
+    },
+    "AP118Y": {
+        "DeviceInfo": "AP118Y",
+        "SupportedModels": null
+    },
+    "AP120": {
+        "DeviceInfo": "AP120",
+        "SupportedModels": null
+    },
+    "AP126F": {
+        "DeviceInfo": "AP126F",
+        "SupportedModels": null
+    },
+    "AP130F-H": {
+        "DeviceInfo": "AP130F-H",
+        "SupportedModels": null
+    },
+    "AP130T": {
+        "DeviceInfo": "AP130T",
+        "SupportedModels": null
+    },
+    "AP135T-H": {
+        "DeviceInfo": "AP135T-H",
+        "SupportedModels": null
+    },
+    "AP136Y-H": {
+        "DeviceInfo": "AP136Y-H",
+        "SupportedModels": null
+    },
+    "AP147": {
+        "DeviceInfo": "AP147",
+        "SupportedModels": null
+    },
+    "AP153Y-H": {
+        "DeviceInfo": "AP153Y-H",
+        "SupportedModels": null
+    },
+    "AP185W": {
+        "DeviceInfo": "AP185W",
+        "SupportedModels": null
+    },
+    "AP210G": {
+        "DeviceInfo": "AP210G",
+        "SupportedModels": null
+    },
+    "AP212-L": {
+        "DeviceInfo": "AP212-L",
+        "SupportedModels": null
+    },
+    "AP212G": {
+        "DeviceInfo": "AP212G",
+        "SupportedModels": null
+    },
+    "AP212G_AP212G0": {
+        "DeviceInfo": "AP212G_AP212G0",
+        "SupportedModels": null
+    },
+    "AP213G": {
+        "DeviceInfo": "AP213G",
+        "SupportedModels": null
+    },
+    "AP216G": {
+        "DeviceInfo": "AP216G",
+        "SupportedModels": null
+    },
+    "AP220G": {
+        "DeviceInfo": "AP220G",
+        "SupportedModels": null
+    },
+    "AP222G": {
+        "DeviceInfo": "AP222G",
+        "SupportedModels": null
+    },
+    "AP223G": {
+        "DeviceInfo": "AP223G",
+        "SupportedModels": null
+    },
+    "AP230EP": {
+        "DeviceInfo": "AP230EP",
+        "SupportedModels": null
+    },
+    "AP230G": {
+        "DeviceInfo": "AP230G",
+        "SupportedModels": null
+    },
+    "AP230IP": {
+        "DeviceInfo": "AP230IP",
+        "SupportedModels": null
+    },
+    "AP238AN": {
+        "DeviceInfo": "AP238AN",
+        "SupportedModels": null
+    },
+    "AP238IOT": {
+        "DeviceInfo": "AP238IOT",
+        "SupportedModels": null
+    },
+    "AP238MQ": {
+        "DeviceInfo": "AP238MQ",
+        "SupportedModels": null
+    },
+    "AP240P": {
+        "DeviceInfo": "AP240P",
+        "SupportedModels": null
+    },
+    "AP240SFP": {
+        "DeviceInfo": "AP240SFP",
+        "SupportedModels": null
+    },
+    "AP242P": {
+        "DeviceInfo": "AP242P",
+        "SupportedModels": null
+    },
+    "AP243P": {
+        "DeviceInfo": "AP243P",
+        "SupportedModels": null
+    },
+    "AP245P": {
+        "DeviceInfo": "AP245P",
+        "SupportedModels": null
+    },
+    "AP246HI": {
+        "DeviceInfo": "AP246HI",
+        "SupportedModels": null
+    },
+    "AP246ND": {
+        "DeviceInfo": "AP246ND",
+        "SupportedModels": null
+    },
+    "AP246NND": {
+        "DeviceInfo": "AP246NND",
+        "SupportedModels": null
+    },
+    "AP246P": {
+        "DeviceInfo": "AP246P",
+        "SupportedModels": null
+    },
+    "AP250": {
+        "DeviceInfo": "AP250",
+        "SupportedModels": null
+    },
+    "AP250MD": {
+        "DeviceInfo": "AP250MD",
+        "SupportedModels": null
+    },
+    "AP260F-H": {
+        "DeviceInfo": "AP260F-H",
+        "SupportedModels": null
+    },
+    "AP260T-H": {
+        "DeviceInfo": "AP260T-H",
+        "SupportedModels": null
+    },
+    "AP261F-H": {
+        "DeviceInfo": "AP261F-H",
+        "SupportedModels": null
+    },
+    "AP261F-H_AP261F-H0": {
+        "DeviceInfo": "AP261F-H_AP261F-H0",
+        "SupportedModels": null
+    },
+    "AP261Y-H": {
+        "DeviceInfo": "AP261Y-H",
+        "SupportedModels": null
+    },
+    "AP262Y-H": {
+        "DeviceInfo": "AP262Y-H",
+        "SupportedModels": null
+    },
+    "AP263YS": {
+        "DeviceInfo": "AP263YS",
+        "SupportedModels": null
+    },
+    "AP266G-H": {
+        "DeviceInfo": "AP266G-H",
+        "SupportedModels": null
+    },
+    "AP267F-H": {
+        "DeviceInfo": "AP267F-H",
+        "SupportedModels": null
+    },
+    "AP267F-H v2": {
+        "DeviceInfo": "AP267F-H v2",
+        "SupportedModels": null
+    },
+    "AP267KY-H": {
+        "DeviceInfo": "AP267KY-H",
+        "SupportedModels": null
+    },
+    "AP268F-H": {
+        "DeviceInfo": "AP268F-H",
+        "SupportedModels": null
+    },
+    "AP268F-IoT_AP268IOT": {
+        "DeviceInfo": "AP268F-IoT_AP268IOT",
+        "SupportedModels": null
+    },
+    "AP269X-HG": {
+        "DeviceInfo": "AP269X-HG",
+        "SupportedModels": null
+    },
+    "AP280F-H": {
+        "DeviceInfo": "AP280F-H",
+        "SupportedModels": null
+    },
+    "AP280Y-H": {
+        "DeviceInfo": "AP280Y-H",
+        "SupportedModels": null
+    },
+    "AP281Y-H": {
+        "DeviceInfo": "AP281Y-H",
+        "SupportedModels": null
+    },
+    "AP281Y-H_AP281YV2": {
+        "DeviceInfo": "AP281Y-H_AP281YV2",
+        "SupportedModels": null
+    },
+    "AP282T-H": {
+        "DeviceInfo": "AP282T-H",
+        "SupportedModels": null
+    },
+    "AP283Y-H": {
+        "DeviceInfo": "AP283Y-H",
+        "SupportedModels": null
+    },
+    "AP284Y-H": {
+        "DeviceInfo": "AP284Y-H",
+        "SupportedModels": null
+    },
+    "AP285F-H": {
+        "DeviceInfo": "AP285F-H",
+        "SupportedModels": null
+    },
+    "AP285KY-H": {
+        "DeviceInfo": "AP285KY-H",
+        "SupportedModels": null
+    },
+    "AP320F-H": {
+        "DeviceInfo": "AP320F-H",
+        "SupportedModels": null
+    },
+    "AP320KY-H": {
+        "DeviceInfo": "AP320KY-H",
+        "SupportedModels": null
+    },
+    "AP320KYRUS": {
+        "DeviceInfo": "AP320KYRUS",
+        "SupportedModels": null
+    },
+    "AP320Y-H": {
+        "DeviceInfo": "AP320Y-H",
+        "SupportedModels": null
+    },
+    "AP320YRUS": {
+        "DeviceInfo": "AP320YRUS",
+        "SupportedModels": null
+    },
+    "AP330F-H": {
+        "DeviceInfo": "AP330F-H",
+        "SupportedModels": null
+    },
+    "AP3513NA": {
+        "DeviceInfo": "AP3513NA",
+        "SupportedModels": null
+    },
+    "AP386X": {
+        "DeviceInfo": "AP386X",
+        "SupportedModels": null
+    },
+    "AP49": {
+        "DeviceInfo": "AP49",
+        "SupportedModels": null
+    },
+    "AP601": {
+        "DeviceInfo": "AP601",
+        "SupportedModels": null
+    },
+    "AP630": {
+        "DeviceInfo": "AP630",
+        "SupportedModels": null
+    },
+    "AP630 v2": {
+        "DeviceInfo": "AP630 v2",
+        "SupportedModels": null
+    },
+    "AP675": {
+        "DeviceInfo": "AP675",
+        "SupportedModels": null
+    },
+    "AP830H": {
+        "DeviceInfo": "AP830H",
+        "SupportedModels": null
+    },
+    "AP875H": {
+        "DeviceInfo": "AP875H",
+        "SupportedModels": null
+    },
+    "AP9344_35P0": {
+        "DeviceInfo": "AP9344_35P0",
+        "SupportedModels": null
+    },
+    "AP9344_35P4": {
+        "DeviceInfo": "AP9344_35P4",
+        "SupportedModels": null
+    },
+    "AP9344_8327": {
+        "DeviceInfo": "AP9344_8327",
+        "SupportedModels": null
+    },
+    "AP9344_M100": {
+        "DeviceInfo": "AP9344_M100",
+        "SupportedModels": null
+    },
+    "AP9344_RTL": {
+        "DeviceInfo": "AP9344_RTL",
+        "SupportedModels": null
+    },
+    "AP941": {
+        "DeviceInfo": "AP941",
+        "SupportedModels": null
+    },
+    "AP9558": {
+        "DeviceInfo": "AP9558",
+        "SupportedModels": null
+    },
+    "AP9558V": {
+        "DeviceInfo": "AP9558V",
+        "SupportedModels": null
+    },
+    "ARIMA2210": {
+        "DeviceInfo": "ARIMA2210",
+        "SupportedModels": null
+    },
+    "AX1800B": {
+        "DeviceInfo": "AX1800B",
+        "SupportedModels": null
+    },
+    "AX1800F": {
+        "DeviceInfo": "AX1800F",
+        "SupportedModels": null
+    },
+    "AX1800FM": {
+        "DeviceInfo": "AX1800FM",
+        "SupportedModels": null
+    },
+    "AX1800FM_AX1800FM0": {
+        "DeviceInfo": "AX1800FM_AX1800FM0",
+        "SupportedModels": null
+    },
+    "AX1800H": {
+        "DeviceInfo": "AX1800H",
+        "SupportedModels": null
+    },
+    "AX1800IoT": {
+        "DeviceInfo": "AX1800IoT",
+        "SupportedModels": null
+    },
+    "AX1800MI": {
+        "DeviceInfo": "AX1800MI",
+        "SupportedModels": null
+    },
+    "AX1800S": {
+        "DeviceInfo": "AX1800S",
+        "SupportedModels": null
+    },
+    "AX1800Y": {
+        "DeviceInfo": "AX1800Y",
+        "SupportedModels": null
+    },
+    "AX1801-MESH": {
+        "DeviceInfo": "AX1801-MESH",
+        "SupportedModels": null
+    },
+    "AX2018-GPON_AX2018GP": {
+        "DeviceInfo": "AX2018-GPON_AX2018GP",
+        "SupportedModels": null
+    },
+    "AX2018FTR": {
+        "DeviceInfo": "AX2018FTR",
+        "SupportedModels": null
+    },
+    "AX2020": {
+        "DeviceInfo": "AX2020",
+        "SupportedModels": null
+    },
+    "AX2021": {
+        "DeviceInfo": "AX2021",
+        "SupportedModels": null
+    },
+    "AX2021_0AX2021": {
+        "DeviceInfo": "AX2021_0AX2021",
+        "SupportedModels": null
+    },
+    "AX2022": {
+        "DeviceInfo": "AX2022",
+        "SupportedModels": null
+    },
+    "AX2022MQ": {
+        "DeviceInfo": "AX2022MQ",
+        "SupportedModels": null
+    },
+    "AX2030A": {
+        "DeviceInfo": "AX2030A",
+        "SupportedModels": null
+    },
+    "AX2030FM": {
+        "DeviceInfo": "AX2030FM",
+        "SupportedModels": null
+    },
+    "AX2030FM_AX2030FM0": {
+        "DeviceInfo": "AX2030FM_AX2030FM0",
+        "SupportedModels": null
+    },
+    "AX2034W": {
+        "DeviceInfo": "AX2034W",
+        "SupportedModels": null
+    },
+    "AX2180": {
+        "DeviceInfo": "AX2180",
+        "SupportedModels": null
+    },
+    "AX3000AM": {
+        "DeviceInfo": "AX3000AM",
+        "SupportedModels": null
+    },
+    "AX3000AMX": {
+        "DeviceInfo": "AX3000AMX",
+        "SupportedModels": null
+    },
+    "AX3000F": {
+        "DeviceInfo": "AX3000F",
+        "SupportedModels": null
+    },
+    "AX3000F-GPON": {
+        "DeviceInfo": "AX3000F-GPON",
+        "SupportedModels": null
+    },
+    "AX3000F-SFP_AX3000FX": {
+        "DeviceInfo": "AX3000F-SFP_AX3000FX",
+        "SupportedModels": null
+    },
+    "AX3000FM": {
+        "DeviceInfo": "AX3000FM",
+        "SupportedModels": null
+    },
+    "AX3000FMRU": {
+        "DeviceInfo": "AX3000FMRU",
+        "SupportedModels": null
+    },
+    "AX3000FM_AX3000FM0": {
+        "DeviceInfo": "AX3000FM_AX3000FM0",
+        "SupportedModels": null
+    },
+    "AX3000FX": {
+        "DeviceInfo": "AX3000FX",
+        "SupportedModels": null
+    },
+    "AX3000FY": {
+        "DeviceInfo": "AX3000FY",
+        "SupportedModels": null
+    },
+    "AX3000PM": {
+        "DeviceInfo": "AX3000PM",
+        "SupportedModels": null
+    },
+    "AX3000X": {
+        "DeviceInfo": "AX3000X",
+        "SupportedModels": null
+    },
+    "AX3001-MESH": {
+        "DeviceInfo": "AX3001-MESH",
+        "SupportedModels": null
+    },
+    "AX3025FM": {
+        "DeviceInfo": "AX3025FM",
+        "SupportedModels": null
+    },
+    "AX3025FM-SFP": {
+        "DeviceInfo": "AX3025FM-SFP",
+        "SupportedModels": null
+    },
+    "AX3025FMN": {
+        "DeviceInfo": "AX3025FMN",
+        "SupportedModels": null
+    },
+    "AX3025Y": {
+        "DeviceInfo": "AX3025Y",
+        "SupportedModels": null
+    },
+    "AX3050KY": {
+        "DeviceInfo": "AX3050KY",
+        "SupportedModels": null
+    },
+    "AX5400KY": {
+        "DeviceInfo": "AX5400KY",
+        "SupportedModels": null
+    },
+    "AX5425Y-3-RU": {
+        "DeviceInfo": "AX5425Y-3-RU",
+        "SupportedModels": null
+    },
+    "AX5RM": {
+        "DeviceInfo": "AX5RM",
+        "SupportedModels": null
+    },
+    "AX8180X": {
+        "DeviceInfo": "AX8180X",
+        "SupportedModels": null
+    },
+    "AX8180Y": {
+        "DeviceInfo": "AX8180Y",
+        "SupportedModels": null
+    },
+    "AX8300A-SFP": {
+        "DeviceInfo": "AX8300A-SFP",
+        "SupportedModels": null
+    },
+    "AX8301L": {
+        "DeviceInfo": "AX8301L",
+        "SupportedModels": null
+    },
+    "AX8325Q-SFP_AX8325QF": {
+        "DeviceInfo": "AX8325Q-SFP_AX8325QF",
+        "SupportedModels": null
+    },
+    "AX8325Q-SFP_AX8325QF0": {
+        "DeviceInfo": "AX8325Q-SFP_AX8325QF0",
+        "SupportedModels": null
+    },
+    "AX8540Q-3_AX8540Q": {
+        "DeviceInfo": "AX8540Q-3_AX8540Q",
+        "SupportedModels": null
+    },
+    "AX8540Q-3_AX8540Q0": {
+        "DeviceInfo": "AX8540Q-3_AX8540Q0",
+        "SupportedModels": null
+    },
+    "AXR3100": {
+        "DeviceInfo": "AXR3100",
+        "SupportedModels": null
+    },
+    "B3000": {
+        "DeviceInfo": "B3000",
+        "SupportedModels": null
+    },
+    "CM520": {
+        "DeviceInfo": "CM520",
+        "SupportedModels": null
+    },
+    "EA1303": {
+        "DeviceInfo": "EA1303",
+        "SupportedModels": null
+    },
+    "FAPM3001": {
+        "DeviceInfo": "FAPM3001",
+        "SupportedModels": null
+    },
+    "FX-2ac": {
+        "DeviceInfo": "FX-2ac",
+        "SupportedModels": null
+    },
+    "HM1800": {
+        "DeviceInfo": "HM1800",
+        "SupportedModels": null
+    },
+    "K2T": {
+        "DeviceInfo": "K2T",
+        "SupportedModels": null
+    },
+    "K2TS": {
+        "DeviceInfo": "K2TS",
+        "SupportedModels": null
+    },
+    "MI100": {
+        "DeviceInfo": "MI100",
+        "SupportedModels": null
+    },
+    "N3000": {
+        "DeviceInfo": "N3000",
+        "SupportedModels": null
+    },
+    "N3000V": {
+        "DeviceInfo": "N3000V",
+        "SupportedModels": null
+    },
+    "PAK590055": {
+        "DeviceInfo": "PAK590055",
+        "SupportedModels": null
+    },
+    "WIA3600": {
+        "DeviceInfo": "WIA3600",
+        "SupportedModels": null
+    },
+    "WP963": {
+        "DeviceInfo": "WP963",
+        "SupportedModels": null
+    },
+    "WP973": {
+        "DeviceInfo": "WP973",
+        "SupportedModels": null
+    },
+    "WP973_V0": {
+        "DeviceInfo": "WP973_V0",
+        "SupportedModels": null
+    },
+    "WPJ563": {
+        "DeviceInfo": "WPJ563",
+        "SupportedModels": null
+    },
+    "XB1200G": {
+        "DeviceInfo": "XB1200G",
+        "SupportedModels": null
+    },
+    "XB8800": {
+        "DeviceInfo": "XB8800",
+        "SupportedModels": null
+    },
+    "XD102": {
+        "DeviceInfo": "XD102",
+        "SupportedModels": null
+    },
+    "XD1202G": {
+        "DeviceInfo": "XD1202G",
+        "SupportedModels": null
+    }
+}
