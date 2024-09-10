@@ -52,5 +52,6 @@ jobs:
       - uses: actions-cool/issues-helper@v3
         with:
           actions: 'update-issue'
+          token: ${{ secrets.ORG_GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           title: "[${{ steps.issue-parser.outputs.issueparser_Brand }}${{ steps.issue-parser.outputs.issueparser_BrandEn && '/' }}${{ steps.issue-parser.outputs.issueparser_BrandEn}}]${{ steps.issue-parser.outputs.issueparser_Model }}"
