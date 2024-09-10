@@ -10,13 +10,9 @@ permissions:
 jobs:
   gennel:
     runs-on: ubuntu-latest
+    if: github.event.issue.state_reason == 'completed'
     steps:
       - uses: actions/checkout@v4
-
-      - run: |
-          echo ${{ toJson(github.event) }}
-
-      - run: cat ${HOME}/issue-parser-result.json
 
       - uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
