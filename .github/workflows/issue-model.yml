@@ -1,0 +1,49 @@
+name: issue-model
+
+on:
+  issues:
+    types: [closed]
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  gennel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: |
+          echo ${{ toJson(github.event) }}
+
+      - run: cat ${HOME}/issue-parser-result.json
+
+      - uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/model.yml
+
+      - run: cat ${HOME}/issue-parser-result.json
+
+      - uses: robinraju/release-downloader@v1
+        with:
+          repository: 'openwrt-fork/gecoos-crawler'
+          latest: true
+          fileName: 'gecoos-crawler'
+          token: ${{ secrets.ORG_GITHUB_TOKEN }}
+      - name: update readme
+        id: beta
+        run: |
+          chmod +x gecoos-crawler
+#      - name: Generate commit branch
+#        id: branch
+#        if: steps.beta.outputs.matrix != '' && !cancelled()
+#        run: |
+#          echo "branch=beta-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
+#      - uses: stefanzweifel/git-auto-commit-action@v5
+#        if: steps.branch.outputs.branch != '' && !cancelled()
+#        with:
+#          commit_message: Action ${{ steps.branch.outputs.branch }}
+#          branch: ${{ steps.branch.outputs.branch }}
+#          file_pattern: 'history/*.json'
+#          create_branch: true
