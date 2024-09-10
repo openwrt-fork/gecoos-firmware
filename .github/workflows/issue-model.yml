@@ -46,8 +46,7 @@ jobs:
           create_branch: true
       - uses: everlytic/branch-merge@1.1.2
         with:
-          github_token: ${{ secrets.ORG_GITHUB_TOKEN }}
-          source_ref: ${{ needs.crawler.outputs.branch }}
+          source_ref: ${{ steps.branch.outputs.branch }}
           target_branch: 'master'
           commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'
       - uses: actions-cool/issues-helper@v3
