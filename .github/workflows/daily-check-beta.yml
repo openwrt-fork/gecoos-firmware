@@ -29,6 +29,7 @@ jobs:
         run: |
           chmod +x gecoos-crawler
           ./gecoos-crawler beta -g $GITHUB_OUTPUT
+          ./gecoos-crawler readme
       - name: Generate commit branch
         id: branch
         if: steps.beta.outputs.matrix != '' && !cancelled()

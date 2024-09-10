@@ -1,0 +1,232 @@
+name: 提交适配硬件型号
+description: 提交集客已适配的硬件型号信息
+title: "适配硬件型号提交"
+labels: ["model"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 感谢提交集客已适配的硬件信息，目前仅支持AP相关设备，请尽量完善填写表单信息，提交信息在确认后会自动关联到列表中
+  - type: input
+    id: Brand
+    attributes:
+      label: 品牌名称（中文）
+      description: 请输入硬件设备的中文品牌名称
+      placeholder: 例如：小米
+    validations:
+      required: true
+  - type: input
+    id: BrandEn
+    attributes:
+      label: 品牌名称（英文）
+      description: 请输入硬件设备的英文品牌名称
+      placeholder: 例如：Xiaomi
+    validations:
+      required: false
+  - type: input
+    id: Model
+    attributes:
+      label: 型号名称
+      description: 请输入硬件设备的型号名称
+      placeholder: 例如：AC2100
+    validations:
+      required: true
+  - type: input
+    id: Link
+    attributes:
+      label: 刷机链接
+      description: 请输入刷机的链接地址
+      placeholder: 例如：https://www.right.com.cn/forum/thread-4021056-1-1.html
+    validations:
+      required: false
+  - type: dropdown
+    id: Firmwares
+    attributes:
+      label: 固件型号
+      description: 集客官方的固件型号,支持选择多个
+      multiple: true
+      options:
+        - AP107IOT
+        - AP110F
+        - AP118A
+        - AP118F
+        - AP118F_AP118F0
+        - AP118Y
+        - AP210G
+        - AP212-L
+        - AP212G
+        - AP212G_AP212G0
+        - AP213G
+        - AP216G
+        - AP230EP
+        - AP230G
+        - AP230IP
+        - AP238AN
+        - AP238IOT
+        - AP238MQ
+        - AP240P
+        - AP240SFP
+        - AP242P
+        - AP243P
+        - AP245P
+        - AP246HI
+        - AP246ND
+        - AP246NND
+        - AP246P
+        - AP250
+        - AP250MD
+        - AP261F-H
+        - AP261F-H_AP261F-H0
+        - AP601
+        - AX1800B
+        - AX1800FM
+        - AX1800FM_AX1800FM0
+        - AX1800H
+        - AX1800IoT
+        - AX1800S
+        - AX2018-GPON_AX2018GP
+        - AX2018FTR
+        - AX2020
+        - AX2021
+        - AX2021_0AX2021
+        - AX2022
+        - AX2022MQ
+        - AX2030FM
+        - AX2030FM_AX2030FM0
+        - AX3000AM
+        - AX3000AMX
+        - AX3000F-GPON
+        - AX3000FM
+        - AX3000FMRU
+        - AX3000FM_AX3000FM0
+        - AX3000PM
+        - AX3025FM
+        - AX3025FM-SFP
+        - AX3025FMN
+        - FAPM3001
+        - PAK590055
+        - XB1200G
+        - XB8800
+        - AC58U
+        - ACRH17
+        - AP0141
+        - AP110T
+        - AP112F
+        - AP112F v2
+        - AP112J
+        - AP112Q
+        - AP112T
+        - AP112Y
+        - AP116F
+        - AP116Q
+        - AP117Q
+        - AP118L
+        - AP120
+        - AP126F
+        - AP130F-H
+        - AP130T
+        - AP135T-H
+        - AP136Y-H
+        - AP147
+        - AP153Y-H
+        - AP185W
+        - AP220G
+        - AP222G
+        - AP223G
+        - AP260F-H
+        - AP260T-H
+        - AP261Y-H
+        - AP262Y-H
+        - AP263YS
+        - AP266G-H
+        - AP267F-H
+        - AP267F-H v2
+        - AP267KY-H
+        - AP268F-H
+        - AP268F-IoT_AP268IOT
+        - AP269X-HG
+        - AP280F-H
+        - AP280Y-H
+        - AP281Y-H
+        - AP281Y-H_AP281YV2
+        - AP282T-H
+        - AP283Y-H
+        - AP284Y-H
+        - AP285F-H
+        - AP285KY-H
+        - AP320F-H
+        - AP320KY-H
+        - AP320KYRUS
+        - AP320Y-H
+        - AP320YRUS
+        - AP330F-H
+        - AP3513NA
+        - AP386X
+        - AP49
+        - AP630
+        - AP630 v2
+        - AP675
+        - AP830H
+        - AP875H
+        - AP9344_35P0
+        - AP9344_35P4
+        - AP9344_8327
+        - AP9344_M100
+        - AP9344_RTL
+        - AP941
+        - AP9558
+        - AP9558V
+        - ARIMA2210
+        - AX1800F
+        - AX1800MI
+        - AX1800Y
+        - AX1801-MESH
+        - AX2030A
+        - AX2034W
+        - AX2180
+        - AX3000F
+        - AX3000F-SFP_AX3000FX
+        - AX3000FX
+        - AX3000FY
+        - AX3000X
+        - AX3001-MESH
+        - AX3025Y
+        - AX3050KY
+        - AX5400KY
+        - AX5425Y-3-RU
+        - AX5RM
+        - AX8180X
+        - AX8180Y
+        - AX8300A-SFP
+        - AX8301L
+        - AX8325Q-SFP_AX8325QF
+        - AX8325Q-SFP_AX8325QF0
+        - AX8540Q-3_AX8540Q
+        - AX8540Q-3_AX8540Q0
+        - AXR3100
+        - B3000
+        - CM520
+        - EA1303
+        - FX-2ac
+        - HM1800
+        - K2T
+        - K2TS
+        - MI100
+        - N3000
+        - N3000V
+        - WIA3600
+        - WP963
+        - WP973
+        - WP973_V0
+        - WPJ563
+        - XD102
+        - XD1202G
+    validations:
+      required: true
+  - type: textarea
+    id: extend
+    attributes:
+      label: 补充信息
+      description: "可以上传设备图片、刷机或配置的说明信息"
+    validations:
+      required: false
