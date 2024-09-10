@@ -207,6 +207,12 @@
                 "BrandEn": "Xiaomi",
                 "Model": "AC2100",
                 "IssueId": 1
+            },
+            {
+                "Brand": "红米",
+                "BrandEn": "Redmi",
+                "Model": "RM2100",
+                "IssueId": 2
             }
         ]
     },
@@ -218,6 +224,12 @@
                 "BrandEn": "Xiaomi",
                 "Model": "AC2100",
                 "IssueId": 1
+            },
+            {
+                "Brand": "红米",
+                "BrandEn": "Redmi",
+                "Model": "RM2100",
+                "IssueId": 2
             }
         ]
     },
