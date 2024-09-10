@@ -201,11 +201,25 @@
     },
     "AP246ND": {
         "DeviceInfo": "AP246ND",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "小米",
+                "BrandEn": "Xiaomi",
+                "Model": "AC2100",
+                "IssueId": 1
+            }
+        ]
     },
     "AP246NND": {
         "DeviceInfo": "AP246NND",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "小米",
+                "BrandEn": "Xiaomi",
+                "Model": "AC2100",
+                "IssueId": 1
+            }
+        ]
     },
     "AP246P": {
         "DeviceInfo": "AP246P",
