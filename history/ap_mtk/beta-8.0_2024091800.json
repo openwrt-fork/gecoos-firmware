@@ -1,0 +1,137 @@
+[
+    {
+        "FileName": "JIKEAP_AP250MD_MT7981_K5_NAND_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AP250MD",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AP250MD_MT7981_K5_NAND_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AP250",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX2030FM_AX2030FM0",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX2030FM_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX2030FM",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX2030FM_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000AMX",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000AM",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000F-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000F-GPON",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000F-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000FMRU_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000FMRU",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000FMRU_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000FM_AX3000FM0",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000FM_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000FM",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000FM_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000PM",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3025FM-SFP",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3025FMN_MT7981_K5_NAND_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3025FMN",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX3025FM_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3025FM",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_AX3025FM_MT7981_K5_8.0_2024091800.bin"
+    },
+    {
+        "FileName": "JIKEAP_FAPM3001_MT7981_K5_8.0_2024091800.bin",
+        "Version": "8.0_2024091800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "FAPM3001",
+        "ReleaseDate": "20240918",
+        "DownloadUrl": "/upload/test/集客AP_MTK_ARM/JIKEAP_FAPM3001_MT7981_K5_8.0_2024091800.bin"
+    }
+]
