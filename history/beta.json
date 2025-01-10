@@ -306,40 +306,40 @@
         "DownloadUrl": "/upload/test/无线网桥_高通/JIKEAP_W5000_QCA934X_2.0_2021062100.bin"
     },
     {
-        "FileName": "GECOOS_AC128_MT7621_1.3_2024080500.bin",
-        "Version": "1.3_2024080500",
+        "FileName": "GECOOS_AC128_MT7621_1.3_2025011000.bin",
+        "Version": "1.3_2025011000",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC128",
-        "ReleaseDate": "20240805",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC128_MT7621_1.3_2024080500.bin"
+        "ReleaseDate": "20250110",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC128_MT7621_1.3_2025011000.bin"
     },
     {
-        "FileName": "GECOOS_AC7620_MT7620_FREE_1.3_2024080500.bin",
-        "Version": "1.3_2024080500",
+        "FileName": "GECOOS_AC7620_MT7620_FREE_1.3_2025011000.bin",
+        "Version": "1.3_2025011000",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC7620",
-        "ReleaseDate": "20240805",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7620_MT7620_FREE_1.3_2024080500.bin"
+        "ReleaseDate": "20250110",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7620_MT7620_FREE_1.3_2025011000.bin"
     },
     {
-        "FileName": "GECOOS_AC7621_MT7621_FREE_1.3_2024080500.bin",
-        "Version": "1.3_2024080500",
+        "FileName": "GECOOS_AC7621_MT7621_FREE_1.3_2025011000.bin",
+        "Version": "1.3_2025011000",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC7621",
-        "ReleaseDate": "20240805",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7621_MT7621_FREE_1.3_2024080500.bin"
+        "ReleaseDate": "20250110",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7621_MT7621_FREE_1.3_2025011000.bin"
     },
     {
-        "FileName": "GECOOS_AC7628_MT7628_FREE_1.3_2024080500.bin",
-        "Version": "1.3_2024080500",
+        "FileName": "GECOOS_AC7628_MT7628_FREE_1.3_2025011000.bin",
+        "Version": "1.3_2025011000",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC7628",
-        "ReleaseDate": "20240805",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2024080500.bin"
+        "ReleaseDate": "20250110",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2025011000.bin"
     },
     {
         "FileName": "JIKEAP_AP250MD_MT7981_K5_NAND_8.0_2024123100.bin",
@@ -2133,12 +2133,12 @@
         "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_VPN51_MT7628_2.0_2021111800.bin"
     },
     {
-        "FileName": "JIKE_gateway_3.1_2024080600.upg",
-        "Version": "3.1_2024080600",
+        "FileName": "JIKE_gateway_3.1_2025011000.upg",
+        "Version": "3.1_2025011000",
         "Md5": "",
         "DeviceType": "集客网关X86",
         "DeviceInfo": "gateway",
-        "ReleaseDate": "20240806",
-        "DownloadUrl": "/upload/test/集客网关X86/JIKE_gateway_3.1_2024080600.upg"
+        "ReleaseDate": "20250110",
+        "DownloadUrl": "/upload/test/集客网关X86/JIKE_gateway_3.1_2025011000.upg"
     }
 ]
