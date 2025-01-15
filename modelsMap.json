@@ -193,7 +193,14 @@
     },
     "AP245P": {
         "DeviceInfo": "AP245P",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "斐讯",
+                "BrandEn": "",
+                "Model": "K2P",
+                "IssueId": 3
+            }
+        ]
     },
     "AP246HI": {
         "DeviceInfo": "AP246HI",
@@ -513,6 +520,14 @@
         "DeviceInfo": "AX2030FM_AX2030FM0",
         "SupportedModels": null
     },
+    "AX2034-GPON": {
+        "DeviceInfo": "AX2034-GPON",
+        "SupportedModels": null
+    },
+    "AX2034F-GPON_AX2034FPON": {
+        "DeviceInfo": "AX2034F-GPON_AX2034FPON",
+        "SupportedModels": null
+    },
     "AX2034W": {
         "DeviceInfo": "AX2034W",
         "SupportedModels": null
@@ -571,6 +586,10 @@
     },
     "AX3001-MESH": {
         "DeviceInfo": "AX3001-MESH",
+        "SupportedModels": null
+    },
+    "AX3004FM-GPON_AX3000FGPON": {
+        "DeviceInfo": "AX3004FM-GPON_AX3000FGPON",
         "SupportedModels": null
     },
     "AX3025FM": {
@@ -663,6 +682,14 @@
     },
     "HM1800": {
         "DeviceInfo": "HM1800",
+        "SupportedModels": null
+    },
+    "IK-SW3000G-DP_SW3000GDP": {
+        "DeviceInfo": "IK-SW3000G-DP_SW3000GDP",
+        "SupportedModels": null
+    },
+    "IK-WX3000G-DP_WX3000GDP": {
+        "DeviceInfo": "IK-WX3000G-DP_WX3000GDP",
         "SupportedModels": null
     },
     "K2T": {
