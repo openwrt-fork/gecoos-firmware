@@ -658,7 +658,14 @@
     },
     "AXR3100": {
         "DeviceInfo": "AXR3100",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "竞斗云",
+                "BrandEn": "",
+                "Model": "2.0",
+                "IssueId": 5
+            }
+        ]
     },
     "B3000": {
         "DeviceInfo": "B3000",
