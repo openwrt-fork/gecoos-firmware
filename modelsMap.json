@@ -189,7 +189,14 @@
     },
     "AP243P": {
         "DeviceInfo": "AP243P",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "联想",
+                "BrandEn": "lenovo",
+                "Model": "Newifi3D2",
+                "IssueId": 4
+            }
+        ]
     },
     "AP245P": {
         "DeviceInfo": "AP245P",
