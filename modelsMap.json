@@ -249,7 +249,14 @@
     },
     "AP246P": {
         "DeviceInfo": "AP246P",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "京东",
+                "BrandEn": "",
+                "Model": "京东无线宝一代",
+                "IssueId": 6
+            }
+        ]
     },
     "AP250": {
         "DeviceInfo": "AP250",
