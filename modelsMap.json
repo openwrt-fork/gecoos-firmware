@@ -206,6 +206,12 @@
                 "BrandEn": "",
                 "Model": "K2P",
                 "IssueId": 3
+            },
+            {
+                "Brand": "斐讯",
+                "BrandEn": "",
+                "Model": "k2p",
+                "IssueId": 7
             }
         ]
     },
