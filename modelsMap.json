@@ -739,6 +739,12 @@
                 "BrandEn": "Redmi",
                 "Model": "AX3000",
                 "IssueId": 9
+            },
+            {
+                "Brand": "小米",
+                "BrandEn": "Xiaomi",
+                "Model": "CR880X",
+                "IssueId": 8
             }
         ]
     },
