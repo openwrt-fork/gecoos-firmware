@@ -733,7 +733,14 @@
     },
     "N3000": {
         "DeviceInfo": "N3000",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "红米",
+                "BrandEn": "Redmi",
+                "Model": "AX3000",
+                "IssueId": 9
+            }
+        ]
     },
     "N3000V": {
         "DeviceInfo": "N3000V",
