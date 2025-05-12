@@ -139,6 +139,10 @@
         "DeviceInfo": "AP216G",
         "SupportedModels": null
     },
+    "AP216TV": {
+        "DeviceInfo": "AP216TV",
+        "SupportedModels": null
+    },
     "AP220G": {
         "DeviceInfo": "AP220G",
         "SupportedModels": null
@@ -153,7 +157,14 @@
     },
     "AP230EP": {
         "DeviceInfo": "AP230EP",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "斐讯",
+                "BrandEn": "Phicomm",
+                "Model": "K2",
+                "IssueId": 10
+            }
+        ]
     },
     "AP230G": {
         "DeviceInfo": "AP230G",
@@ -654,6 +665,10 @@
     },
     "AX8300A-SFP": {
         "DeviceInfo": "AX8300A-SFP",
+        "SupportedModels": null
+    },
+    "AX8300Y": {
+        "DeviceInfo": "AX8300Y",
         "SupportedModels": null
     },
     "AX8301L": {
