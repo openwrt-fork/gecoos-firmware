@@ -83,6 +83,10 @@
         "DeviceInfo": "AP120",
         "SupportedModels": null
     },
+    "AP1200M-W": {
+        "DeviceInfo": "AP1200M-W",
+        "SupportedModels": null
+    },
     "AP126F": {
         "DeviceInfo": "AP126F",
         "SupportedModels": null
@@ -129,6 +133,10 @@
     },
     "AP212G_AP212G0": {
         "DeviceInfo": "AP212G_AP212G0",
+        "SupportedModels": null
+    },
+    "AP212G_WA228ACV2": {
+        "DeviceInfo": "AP212G_WA228ACV2",
         "SupportedModels": null
     },
     "AP213G": {
@@ -281,7 +289,14 @@
     },
     "AP250MD": {
         "DeviceInfo": "AP250MD",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "兆能",
+                "BrandEn": "SuperElectron",
+                "Model": "ZN-M5",
+                "IssueId": 12
+            }
+        ]
     },
     "AP260F-H": {
         "DeviceInfo": "AP260F-H",
