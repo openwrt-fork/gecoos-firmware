@@ -530,6 +530,10 @@
         "DeviceInfo": "AX2018-GPON_AX2018GP",
         "SupportedModels": null
     },
+    "AX2018-SFP": {
+        "DeviceInfo": "AX2018-SFP",
+        "SupportedModels": null
+    },
     "AX2018FTR": {
         "DeviceInfo": "AX2018FTR",
         "SupportedModels": null
@@ -775,6 +779,12 @@
                 "BrandEn": "Xiaomi",
                 "Model": "CR880X",
                 "IssueId": 8
+            },
+            {
+                "Brand": "沛喆",
+                "BrandEn": "PZ",
+                "Model": "PZ-L8",
+                "IssueId": 13
             }
         ]
     },
