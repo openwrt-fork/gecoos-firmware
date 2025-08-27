@@ -1,0 +1,56 @@
+[
+    {
+        "FileName": "JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE6525KY-3",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE8525KY-SFP",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE9325F-6G",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE9325KY-6G",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_NE36PRO_IPQ53XX_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "NE36PRO",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_NE36PRO_IPQ53XX_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_VS017_IPQ53XX_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "VS017",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_VS017_IPQ53XX_8.1_2025082700.bin"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
+        "DeviceInfo": "BE3600FM_EN7563",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
+        "DeviceInfo": "BE5000FM_EN7563",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
+        "DeviceInfo": "BE5040XM_EN7563",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
+        "DeviceInfo": "BE5125FM_EN7563",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.1_2025082700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025082700.bin",
+        "Version": "8.1_2025082700",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MT7987_WIFI7",
+        "DeviceInfo": "BE2036FM",
+        "ReleaseDate": "20250827",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025082700.bin"
+    }
+]
