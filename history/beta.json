@@ -342,40 +342,40 @@
         "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2025090800.bin"
     },
     {
-        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.1_2025082700.bin",
-        "Version": "8.1_2025082700",
+        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.0_2025091000.bin",
+        "Version": "8.0_2025091000",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE3600FM_EN7563",
-        "ReleaseDate": "20250827",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.1_2025082700.bin"
+        "ReleaseDate": "20250910",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.0_2025091000.bin"
     },
     {
-        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.1_2025082700.bin",
-        "Version": "8.1_2025082700",
+        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.0_2025091000.bin",
+        "Version": "8.0_2025091000",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5000FM_EN7563",
-        "ReleaseDate": "20250827",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.1_2025082700.bin"
+        "ReleaseDate": "20250910",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.0_2025091000.bin"
     },
     {
-        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.1_2025082700.bin",
-        "Version": "8.1_2025082700",
+        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.0_2025091000.bin",
+        "Version": "8.0_2025091000",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5040XM_EN7563",
-        "ReleaseDate": "20250827",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.1_2025082700.bin"
+        "ReleaseDate": "20250910",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.0_2025091000.bin"
     },
     {
-        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.1_2025082700.bin",
-        "Version": "8.1_2025082700",
+        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.0_2025091000.bin",
+        "Version": "8.0_2025091000",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5125FM_EN7563",
-        "ReleaseDate": "20250827",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.1_2025082700.bin"
+        "ReleaseDate": "20250910",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.0_2025091000.bin"
     },
     {
         "FileName": "JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025090700.bin",
@@ -1035,13 +1035,13 @@
         "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_FAPM3001_MT7981_K5_8.1_2025090700.bin"
     },
     {
-        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025082700.bin",
-        "Version": "8.1_2025082700",
+        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025091000.bin",
+        "Version": "8.1_2025091000",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7987_WIFI7",
         "DeviceInfo": "BE2036FM",
-        "ReleaseDate": "20250827",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025082700.bin"
+        "ReleaseDate": "20250910",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025091000.bin"
     },
     {
         "FileName": "JIKEAP_AC58U_IPQ40XX_1000M_IPQ4018_8.0_2025090700.bin",
