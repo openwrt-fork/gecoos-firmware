@@ -830,6 +830,17 @@
         "DeviceInfo": "PAK590055",
         "SupportedModels": null
     },
+    "VS017": {
+        "DeviceInfo": "VS017",
+        "SupportedModels": [
+            {
+                "Brand": "联通",
+                "BrandEn": "",
+                "Model": "VS017",
+                "IssueId": 18
+            }
+        ]
+    },
     "WIA3600": {
         "DeviceInfo": "WIA3600",
         "SupportedModels": null
