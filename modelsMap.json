@@ -295,6 +295,12 @@
                 "BrandEn": "SuperElectron",
                 "Model": "ZN-M5",
                 "IssueId": 12
+            },
+            {
+                "Brand": "360",
+                "BrandEn": "",
+                "Model": "T7",
+                "IssueId": 14
             }
         ]
     },
