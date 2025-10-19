@@ -786,7 +786,14 @@
     },
     "BE5040XM_EN7563": {
         "DeviceInfo": "BE5040XM_EN7563",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "小米",
+                "BrandEn": "Xiaomi",
+                "Model": "BE5000",
+                "IssueId": 16
+            }
+        ]
     },
     "BE5125FM_EN7563": {
         "DeviceInfo": "BE5125FM_EN7563",
