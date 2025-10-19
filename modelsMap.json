@@ -135,6 +135,10 @@
         "DeviceInfo": "AP212G_AP212G0",
         "SupportedModels": null
     },
+    "AP212G_WA228AC0V2": {
+        "DeviceInfo": "AP212G_WA228AC0V2",
+        "SupportedModels": null
+    },
     "AP212G_WA228ACV2": {
         "DeviceInfo": "AP212G_WA228ACV2",
         "SupportedModels": null
@@ -287,6 +291,10 @@
         "DeviceInfo": "AP250",
         "SupportedModels": null
     },
+    "AP250CD": {
+        "DeviceInfo": "AP250CD",
+        "SupportedModels": null
+    },
     "AP250MD": {
         "DeviceInfo": "AP250MD",
         "SupportedModels": [
@@ -295,8 +303,18 @@
                 "BrandEn": "SuperElectron",
                 "Model": "ZN-M5",
                 "IssueId": 12
+            },
+            {
+                "Brand": "360",
+                "BrandEn": "360",
+                "Model": "T7",
+                "IssueId": 14
             }
         ]
+    },
+    "AP250MDV": {
+        "DeviceInfo": "AP250MDV",
+        "SupportedModels": null
     },
     "AP260F-H": {
         "DeviceInfo": "AP260F-H",
@@ -578,6 +596,10 @@
         "DeviceInfo": "AX2034F-GPON_AX2034FPON",
         "SupportedModels": null
     },
+    "AX2034FM": {
+        "DeviceInfo": "AX2034FM",
+        "SupportedModels": null
+    },
     "AX2034W": {
         "DeviceInfo": "AX2034W",
         "SupportedModels": null
@@ -626,12 +648,20 @@
         "DeviceInfo": "AX3000FY",
         "SupportedModels": null
     },
+    "AX3000M-W": {
+        "DeviceInfo": "AX3000M-W",
+        "SupportedModels": null
+    },
     "AX3000PM": {
         "DeviceInfo": "AX3000PM",
         "SupportedModels": null
     },
     "AX3000X": {
         "DeviceInfo": "AX3000X",
+        "SupportedModels": null
+    },
+    "AX3000X-W": {
+        "DeviceInfo": "AX3000X-W",
         "SupportedModels": null
     },
     "AX3001-MESH": {
@@ -660,6 +690,10 @@
     },
     "AX3050KY": {
         "DeviceInfo": "AX3050KY",
+        "SupportedModels": null
+    },
+    "AX323WNA": {
+        "DeviceInfo": "AX323WNA",
         "SupportedModels": null
     },
     "AX5400KY": {
@@ -723,6 +757,42 @@
     },
     "B3000": {
         "DeviceInfo": "B3000",
+        "SupportedModels": null
+    },
+    "BE2036FM": {
+        "DeviceInfo": "BE2036FM",
+        "SupportedModels": null
+    },
+    "BE3600FM_EN7563": {
+        "DeviceInfo": "BE3600FM_EN7563",
+        "SupportedModels": null
+    },
+    "BE5000FM_EN7563": {
+        "DeviceInfo": "BE5000FM_EN7563",
+        "SupportedModels": null
+    },
+    "BE5040XM_EN7563": {
+        "DeviceInfo": "BE5040XM_EN7563",
+        "SupportedModels": null
+    },
+    "BE5125FM_EN7563": {
+        "DeviceInfo": "BE5125FM_EN7563",
+        "SupportedModels": null
+    },
+    "BE6525KY-3": {
+        "DeviceInfo": "BE6525KY-3",
+        "SupportedModels": null
+    },
+    "BE8525KY-SFP": {
+        "DeviceInfo": "BE8525KY-SFP",
+        "SupportedModels": null
+    },
+    "BE9325F-6G": {
+        "DeviceInfo": "BE9325F-6G",
+        "SupportedModels": null
+    },
+    "BE9325KY-6G": {
+        "DeviceInfo": "BE9325KY-6G",
         "SupportedModels": null
     },
     "CM520": {
@@ -792,8 +862,16 @@
         "DeviceInfo": "N3000V",
         "SupportedModels": null
     },
+    "NE36PRO": {
+        "DeviceInfo": "NE36PRO",
+        "SupportedModels": null
+    },
     "PAK590055": {
         "DeviceInfo": "PAK590055",
+        "SupportedModels": null
+    },
+    "VS017": {
+        "DeviceInfo": "VS017",
         "SupportedModels": null
     },
     "WIA3600": {
