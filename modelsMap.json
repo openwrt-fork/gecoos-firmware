@@ -892,7 +892,14 @@
     },
     "VS017": {
         "DeviceInfo": "VS017",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "联通",
+                "BrandEn": "Lenovo",
+                "Model": "VS017",
+                "IssueId": 18
+            }
+        ]
     },
     "WIA3600": {
         "DeviceInfo": "WIA3600",
