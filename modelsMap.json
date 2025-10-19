@@ -293,7 +293,14 @@
     },
     "AP250CD": {
         "DeviceInfo": "AP250CD",
-        "SupportedModels": null
+        "SupportedModels": [
+            {
+                "Brand": "多酷",
+                "BrandEn": "Cudy",
+                "Model": "TR3000",
+                "IssueId": 15
+            }
+        ]
     },
     "AP250MD": {
         "DeviceInfo": "AP250MD",
