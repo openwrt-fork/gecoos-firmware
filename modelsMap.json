@@ -309,6 +309,12 @@
                 "BrandEn": "360",
                 "Model": "T7",
                 "IssueId": 14
+            },
+            {
+                "Brand": "捷稀",
+                "BrandEn": "JCG",
+                "Model": "Q30pro",
+                "IssueId": 17
             }
         ]
     },
