@@ -306,742 +306,760 @@
         "DownloadUrl": "/upload/test/无线网桥_高通/JIKEAP_W5000_QCA934X_2.0_2021062100.bin"
     },
     {
-        "FileName": "GECOOS_AC128_MT7621_1.3_2025090800.bin",
-        "Version": "1.3_2025090800",
+        "FileName": "GECOOS_AC128_MT7621_1.3_2025102200.bin",
+        "Version": "1.3_2025102200",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC128",
-        "ReleaseDate": "20250908",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC128_MT7621_1.3_2025090800.bin"
+        "ReleaseDate": "20251022",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC128_MT7621_1.3_2025102200.bin"
     },
     {
-        "FileName": "GECOOS_AC7620_MT7620_FREE_1.3_2025090800.bin",
-        "Version": "1.3_2025090800",
+        "FileName": "GECOOS_AC7620_MT7620_FREE_1.3_2025102200.bin",
+        "Version": "1.3_2025102200",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC7620",
-        "ReleaseDate": "20250908",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7620_MT7620_FREE_1.3_2025090800.bin"
+        "ReleaseDate": "20251022",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7620_MT7620_FREE_1.3_2025102200.bin"
     },
     {
-        "FileName": "GECOOS_AC7621_MT7621_FREE_1.3_2025090800.bin",
-        "Version": "1.3_2025090800",
+        "FileName": "GECOOS_AC7621_MT7621_FREE_1.3_2025102200.bin",
+        "Version": "1.3_2025102200",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC7621",
-        "ReleaseDate": "20250908",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7621_MT7621_FREE_1.3_2025090800.bin"
+        "ReleaseDate": "20251022",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7621_MT7621_FREE_1.3_2025102200.bin"
     },
     {
-        "FileName": "GECOOS_AC7628_MT7628_FREE_1.3_2025090800.bin",
-        "Version": "1.3_2025090800",
+        "FileName": "GECOOS_AC7628_MT7628_FREE_1.3_2025102200.bin",
+        "Version": "1.3_2025102200",
         "Md5": "",
         "DeviceType": "集客AC控制器",
         "DeviceInfo": "AC7628",
-        "ReleaseDate": "20250908",
-        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2025090800.bin"
+        "ReleaseDate": "20251022",
+        "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2025102200.bin"
     },
     {
-        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.0_2025091000.bin",
-        "Version": "8.0_2025091000",
+        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE3600FM_EN7563",
-        "ReleaseDate": "20250910",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.0_2025091000.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.0_2025091000.bin",
-        "Version": "8.0_2025091000",
+        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5000FM_EN7563",
-        "ReleaseDate": "20250910",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.0_2025091000.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.0_2025091000.bin",
-        "Version": "8.0_2025091000",
+        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5040XM_EN7563",
-        "ReleaseDate": "20250910",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.0_2025091000.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.0_2025091000.bin",
-        "Version": "8.0_2025091000",
+        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5125FM_EN7563",
-        "ReleaseDate": "20250910",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.0_2025091000.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP107IOT",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP110F",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP118A",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP118F_AP118F0",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP118F",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP118Y",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP1200M-W",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP210G",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP212-L",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP212G_AP212G0",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP212G",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP212G_WA228AC0V2",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP212G_WA228ACV2",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP213G",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP216G",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP216TV",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP230EP",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP230G",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP230IP",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP238AN",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP238IOT",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP238MQ",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP240P",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP240SFP",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP242P",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP243P",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP245P",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP246HI_MT7621_K4_1000_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP246HI_MT7621_K4_1000_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP246HI",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246HI_MT7621_K4_1000_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246HI_MT7621_K4_1000_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP246ND",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP246NND",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP246P",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP261F-H_AP261F-H0",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP261F-H_MT7621_K4_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP261F-H_MT7621_K4_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP261F-H",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP261F-H_MT7621_K4_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP261F-H_MT7621_K4_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AP601",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX1800B",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX1800FM_AX1800FM0",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX1800FM_MT7621_K4_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX1800FM_MT7621_K4_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX1800FM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800FM_MT7621_K4_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800FM_MT7621_K4_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX1800H",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX1800IoT",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX1800S",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2018-GPON_AX2018GP",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2018-SFP",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2020",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2021_0AX2021",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2021",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2022MQ",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "AX2022",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "PAK590055",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "XB1200G",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2025090700.bin",
-        "Version": "8.0_2025090700",
+        "FileName": "JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2025102100.bin",
+        "Version": "8.0_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MIPS",
         "DeviceInfo": "XB8800",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MIPS/JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AP250CD",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AP250MDV",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AP250MD",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AP250",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX2030FM_AX2030FM0",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2030FM_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX2030FM_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX2030FM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2030FM_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2030FM_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX2034-GPON",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX2034FM_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX2034FM_AX2034FMG_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MT7981_WIFI6",
+        "DeviceInfo": "AX2034FM_AX2034FMG",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2034FM_AX2034FMG_MT7981_K5_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_AX2034FM_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX2034FM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2034FM_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX2034FM_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000AMX",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000AM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000FMRU_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000FMRU_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000FMRU",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000FMRU_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000FMRU_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000FM_AX3000FM0",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000FM_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000FM_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000FM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000FM_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000FM_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000M-W_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000M-W_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000M-W",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000M-W_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000M-W_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000PM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3000X-W_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3000X-W_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3000X-W",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000X-W_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3000X-W_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3004FM-GPON_AX3000FGPON",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3025FM-SFP",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3025FMN",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX3025FM_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX3025FM_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX3025FM",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3025FM_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX3025FM_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX323WNA",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "AX8300Y",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_FAPM3001_MT7981_K5_8.1_2025090700.bin",
-        "Version": "8.1_2025090700",
+        "FileName": "JIKEAP_FAPM3001_MT7981_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7981_WIFI6",
         "DeviceInfo": "FAPM3001",
-        "ReleaseDate": "20250907",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_FAPM3001_MT7981_K5_8.1_2025090700.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_FAPM3001_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025091000.bin",
-        "Version": "8.1_2025091000",
+        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7987_WIFI7",
         "DeviceInfo": "BE2036FM",
-        "ReleaseDate": "20250910",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025091000.bin"
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE3625FM_MT7987_K5_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MT7987_WIFI7",
+        "DeviceInfo": "BE3625FM",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE3625FM_MT7987_K5_8.1_2025102100.bin"
     },
     {
         "FileName": "JIKEAP_AC58U_IPQ40XX_1000M_IPQ4018_8.0_2025102100.bin",
@@ -1600,6 +1618,69 @@
         "DeviceInfo": "N3000",
         "ReleaseDate": "",
         "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI6/ubi-JIKEAP_N3000.img"
+    },
+    {
+        "FileName": "JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE6525KY-3",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE6525Y-3XGSFP",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE8525KY-SFP",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE9325F-6G",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE9325KY-6G",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_NE36PRO_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "NE36PRO",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_NE36PRO_IPQ53XX_8.1_2025102100.bin"
+    },
+    {
+        "FileName": "JIKEAP_VS017_IPQ53XX_8.1_2025102100.bin",
+        "Version": "8.1_2025102100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "VS017",
+        "ReleaseDate": "20251021",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_VS017_IPQ53XX_8.1_2025102100.bin"
     },
     {
         "FileName": "JIKEAP_AP0141_QCA934X_1000M_8.0_2025102100.bin",
