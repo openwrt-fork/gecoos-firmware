@@ -342,40 +342,40 @@
         "DownloadUrl": "/upload/test/集客AC控制器/GECOOS_AC7628_MT7628_FREE_1.3_2025102200.bin"
     },
     {
-        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.0_2025102100.bin",
-        "Version": "8.0_2025102100",
+        "FileName": "JIKEAP_BE3600FM_EN7563_K5_8.0_2025110300.bin",
+        "Version": "8.0_2025110300",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE3600FM_EN7563",
-        "ReleaseDate": "20251021",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.0_2025102100.bin"
+        "ReleaseDate": "20251103",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE3600FM_EN7563_K5_8.0_2025110300.bin"
     },
     {
-        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.0_2025102100.bin",
-        "Version": "8.0_2025102100",
+        "FileName": "JIKEAP_BE5000FM_EN7563_K5_8.0_2025110300.bin",
+        "Version": "8.0_2025110300",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5000FM_EN7563",
-        "ReleaseDate": "20251021",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.0_2025102100.bin"
+        "ReleaseDate": "20251103",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5000FM_EN7563_K5_8.0_2025110300.bin"
     },
     {
-        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.0_2025102100.bin",
-        "Version": "8.0_2025102100",
+        "FileName": "JIKEAP_BE5040XM_EN7563_K5_8.0_2025110300.bin",
+        "Version": "8.0_2025110300",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5040XM_EN7563",
-        "ReleaseDate": "20251021",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.0_2025102100.bin"
+        "ReleaseDate": "20251103",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5040XM_EN7563_K5_8.0_2025110300.bin"
     },
     {
-        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.0_2025102100.bin",
-        "Version": "8.0_2025102100",
+        "FileName": "JIKEAP_BE5125FM_EN7563_K5_8.0_2025110300.bin",
+        "Version": "8.0_2025110300",
         "Md5": "",
         "DeviceType": "集客AP_AIROHA_AN7563PT_WIFI7",
         "DeviceInfo": "BE5125FM_EN7563",
-        "ReleaseDate": "20251021",
-        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.0_2025102100.bin"
+        "ReleaseDate": "20251103",
+        "DownloadUrl": "/upload/test/集客AP_AIROHA_AN7563PT_WIFI7/JIKEAP_BE5125FM_EN7563_K5_8.0_2025110300.bin"
     },
     {
         "FileName": "JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025102100.bin",
@@ -1044,22 +1044,22 @@
         "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_FAPM3001_MT7981_K5_8.1_2025102100.bin"
     },
     {
-        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025102100.bin",
-        "Version": "8.1_2025102100",
+        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.1_2025110300.bin",
+        "Version": "8.1_2025110300",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7987_WIFI7",
         "DeviceInfo": "BE2036FM",
-        "ReleaseDate": "20251021",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025102100.bin"
+        "ReleaseDate": "20251103",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.1_2025110300.bin"
     },
     {
-        "FileName": "JIKEAP_BE3625FM_MT7987_K5_8.1_2025102100.bin",
-        "Version": "8.1_2025102100",
+        "FileName": "JIKEAP_BE3625FM_MT7987_K5_8.1_2025110300.bin",
+        "Version": "8.1_2025110300",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7987_WIFI7",
         "DeviceInfo": "BE3625FM",
-        "ReleaseDate": "20251021",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE3625FM_MT7987_K5_8.1_2025102100.bin"
+        "ReleaseDate": "20251103",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE3625FM_MT7987_K5_8.1_2025110300.bin"
     },
     {
         "FileName": "JIKEAP_AC58U_IPQ40XX_1000M_IPQ4018_8.0_2025102100.bin",
