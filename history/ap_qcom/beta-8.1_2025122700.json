@@ -1,0 +1,83 @@
+[
+    {
+        "FileName": "JIKEAP_BE3625YQ_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE3625YQ",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE3625YQ_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE5125FMV2_BE3625YQM7_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE5125FMV2_BE3625YQM7",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE5125FMV2_BE3625YQM7_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE6525KY-3",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE6525Y-3XGSFP",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE8525KY-SFP",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE9325F-6G",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "BE9325KY-6G",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_NE36PRO_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "NE36PRO",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_NE36PRO_IPQ53XX_8.1_2025122700.bin"
+    },
+    {
+        "FileName": "JIKEAP_VS017_IPQ53XX_8.1_2025122700.bin",
+        "Version": "8.1_2025122700",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_IPQ系列_WIFI7",
+        "DeviceInfo": "VS017",
+        "ReleaseDate": "20251227",
+        "DownloadUrl": "/upload/test/集客AP_高通_IPQ系列_WIFI7/JIKEAP_VS017_IPQ53XX_8.1_2025122700.bin"
+    }
+]
