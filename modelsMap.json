@@ -322,11 +322,21 @@
                 "BrandEn": "JCG",
                 "Model": "Q30pro",
                 "IssueId": 17
+            },
+            {
+                "Brand": "安博通 ABT",
+                "BrandEn": "ABT",
+                "Model": "ASR3000",
+                "IssueId": 20
             }
         ]
     },
     "AP250MDV": {
         "DeviceInfo": "AP250MDV",
+        "SupportedModels": null
+    },
+    "AP250XB": {
+        "DeviceInfo": "AP250XB",
         "SupportedModels": null
     },
     "AP260F-H": {
@@ -613,6 +623,10 @@
         "DeviceInfo": "AX2034FM",
         "SupportedModels": null
     },
+    "AX2034FM_AX2034FMG": {
+        "DeviceInfo": "AX2034FM_AX2034FMG",
+        "SupportedModels": null
+    },
     "AX2034W": {
         "DeviceInfo": "AX2034W",
         "SupportedModels": null
@@ -772,12 +786,28 @@
         "DeviceInfo": "B3000",
         "SupportedModels": null
     },
+    "BE18710KY-3XG_BE18710KYD5": {
+        "DeviceInfo": "BE18710KY-3XG_BE18710KYD5",
+        "SupportedModels": null
+    },
     "BE2036FM": {
         "DeviceInfo": "BE2036FM",
         "SupportedModels": null
     },
+    "BE21610KY-6GXG_BE21610KY6": {
+        "DeviceInfo": "BE21610KY-6GXG_BE21610KY6",
+        "SupportedModels": null
+    },
     "BE3600FM_EN7563": {
         "DeviceInfo": "BE3600FM_EN7563",
+        "SupportedModels": null
+    },
+    "BE3625FM": {
+        "DeviceInfo": "BE3625FM",
+        "SupportedModels": null
+    },
+    "BE3625YQ": {
+        "DeviceInfo": "BE3625YQ",
         "SupportedModels": null
     },
     "BE5000FM_EN7563": {
@@ -795,12 +825,20 @@
             }
         ]
     },
+    "BE5125FMV2_BE3625YQM7": {
+        "DeviceInfo": "BE5125FMV2_BE3625YQM7",
+        "SupportedModels": null
+    },
     "BE5125FM_EN7563": {
         "DeviceInfo": "BE5125FM_EN7563",
         "SupportedModels": null
     },
     "BE6525KY-3": {
         "DeviceInfo": "BE6525KY-3",
+        "SupportedModels": null
+    },
+    "BE6525Y-3XGSFP": {
+        "DeviceInfo": "BE6525Y-3XGSFP",
         "SupportedModels": null
     },
     "BE8525KY-SFP": {
