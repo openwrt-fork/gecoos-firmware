@@ -1053,22 +1053,22 @@
         "DownloadUrl": "/upload/test/集客AP_MTK_MT7981_WIFI6/JIKEAP_FAPM3001_MT7981_K5_8.1_2026020700.bin"
     },
     {
-        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.2_2026020700.bin",
-        "Version": "8.2_2026020700",
+        "FileName": "JIKEAP_BE2036FM_MT7987_K5_8.2_2026020900.bin",
+        "Version": "8.2_2026020900",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7987_WIFI7",
         "DeviceInfo": "BE2036FM",
-        "ReleaseDate": "20260207",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.2_2026020700.bin"
+        "ReleaseDate": "20260209",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE2036FM_MT7987_K5_8.2_2026020900.bin"
     },
     {
-        "FileName": "JIKEAP_BE3625FM_MT7987_K5_8.2_2026020700.bin",
-        "Version": "8.2_2026020700",
+        "FileName": "JIKEAP_BE3625FM_MT7987_K5_8.2_2026020900.bin",
+        "Version": "8.2_2026020900",
         "Md5": "",
         "DeviceType": "集客AP_MTK_MT7987_WIFI7",
         "DeviceInfo": "BE3625FM",
-        "ReleaseDate": "20260207",
-        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE3625FM_MT7987_K5_8.2_2026020700.bin"
+        "ReleaseDate": "20260209",
+        "DownloadUrl": "/upload/test/集客AP_MTK_MT7987_WIFI7/JIKEAP_BE3625FM_MT7987_K5_8.2_2026020900.bin"
     },
     {
         "FileName": "JIKEAP_AC58U_IPQ40XX_1000M_IPQ4018_8.0_2026020700.bin",
