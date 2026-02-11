@@ -2376,12 +2376,12 @@
         "DownloadUrl": "/upload/test/集客微路由_MTK/JIKEAP_VPN51_MT7628_2.0_2021111800.bin"
     },
     {
-        "FileName": "JIKE_gateway_3.1_2025011000.upg",
-        "Version": "3.1_2025011000",
+        "FileName": "JIKE_gateway_3.1_2026021104.upg",
+        "Version": "3.1_2026021104",
         "Md5": "",
         "DeviceType": "集客网关X86",
         "DeviceInfo": "gateway",
-        "ReleaseDate": "20250110",
-        "DownloadUrl": "/upload/test/集客网关X86/JIKE_gateway_3.1_2025011000.upg"
+        "ReleaseDate": "20260211",
+        "DownloadUrl": "/upload/test/集客网关X86/JIKE_gateway_3.1_2026021104.upg"
     }
 ]
