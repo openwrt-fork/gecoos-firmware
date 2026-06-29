@@ -631,6 +631,10 @@
         "DeviceInfo": "AX2034W",
         "SupportedModels": null
     },
+    "AX2034WF": {
+        "DeviceInfo": "AX2034WF",
+        "SupportedModels": null
+    },
     "AX2180": {
         "DeviceInfo": "AX2180",
         "SupportedModels": null
@@ -831,6 +835,10 @@
     },
     "BE5125FM_EN7563": {
         "DeviceInfo": "BE5125FM_EN7563",
+        "SupportedModels": null
+    },
+    "BE6525JQ-3": {
+        "DeviceInfo": "BE6525JQ-3",
         "SupportedModels": null
     },
     "BE6525KY-3": {
