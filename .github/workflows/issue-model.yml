@@ -37,14 +37,14 @@ jobs:
         id: branch
         run: |
           echo "branch=issue-model-${{ github.event.issue.number }}" >> $GITHUB_OUTPUT
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         if: steps.branch.outputs.branch != '' && !cancelled()
         with:
           commit_message: Action ${{ steps.branch.outputs.branch }}
           branch: ${{ steps.branch.outputs.branch }}
-          file_pattern: 'modelsMap.json README.md'
+          file_pattern: 'modelsMap.json README.md history/*/HISTORY.md .github/ISSUE_TEMPLATE/model.yml'
           create_branch: true
-      - uses: everlytic/branch-merge@1.1.2
+      - uses: everlytic/branch-merge@1.1.5
         with:
           source_ref: ${{ steps.branch.outputs.branch }}
           target_branch: 'master'

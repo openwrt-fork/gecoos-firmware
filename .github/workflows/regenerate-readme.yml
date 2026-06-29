@@ -1,0 +1,44 @@
+name: regenerate-readme
+
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: robinraju/release-downloader@v1
+        with:
+          repository: 'openwrt-fork/gecoos-crawler'
+          latest: true
+          fileName: 'gecoos-crawler'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: regenerate readme
+        run: |
+          chmod +x gecoos-crawler
+          ./gecoos-crawler readme
+
+      - name: Generate commit branch
+        id: branch
+        run: |
+          echo "branch=regenerate-readme-$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Action ${{ steps.branch.outputs.branch }}
+          branch: ${{ steps.branch.outputs.branch }}
+          file_pattern: 'README.md modelsMap.json .github/ISSUE_TEMPLATE/model.yml history/*/HISTORY.md'
+          create_branch: true
+
+      - uses: everlytic/branch-merge@1.1.5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_ref: ${{ steps.branch.outputs.branch }}
+          target_branch: 'master'
+          commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'

@@ -46,18 +46,48 @@ body:
       description: 集客官方的固件型号,支持选择多个
       multiple: true
       options:
+        - AC58U
+        - ACRH17
+        - AP0141
         - AP107IOT
         - AP110F
+        - AP110T
+        - AP112F
+        - AP112F v2
+        - AP112J
+        - AP112Q
+        - AP112T
+        - AP112Y
+        - AP116F
+        - AP116Q
+        - AP117Q
         - AP118A
         - AP118F
         - AP118F_AP118F0
+        - AP118L
         - AP118Y
+        - AP120
+        - AP1200M-W
+        - AP126F
+        - AP130F-H
+        - AP130T
+        - AP135T-H
+        - AP136Y-H
+        - AP147
+        - AP153Y-H
+        - AP185W
         - AP210G
         - AP212-L
         - AP212G
         - AP212G_AP212G0
+        - AP212G_WA228AC0V2
+        - AP212G_WA228ACV2
         - AP213G
         - AP216G
+        - AP216TV
+        - AP220G
+        - AP222G
+        - AP223G
         - AP230EP
         - AP230G
         - AP230IP
@@ -74,67 +104,14 @@ body:
         - AP246NND
         - AP246P
         - AP250
+        - AP250CD
         - AP250MD
-        - AP261F-H
-        - AP261F-H_AP261F-H0
-        - AP601
-        - AX1800B
-        - AX1800FM
-        - AX1800FM_AX1800FM0
-        - AX1800H
-        - AX1800IoT
-        - AX1800S
-        - AX2018-GPON_AX2018GP
-        - AX2018FTR
-        - AX2020
-        - AX2021
-        - AX2021_0AX2021
-        - AX2022
-        - AX2022MQ
-        - AX2030FM
-        - AX2030FM_AX2030FM0
-        - AX3000AM
-        - AX3000AMX
-        - AX3000F-GPON
-        - AX3000FM
-        - AX3000FMRU
-        - AX3000FM_AX3000FM0
-        - AX3000PM
-        - AX3025FM
-        - AX3025FM-SFP
-        - AX3025FMN
-        - FAPM3001
-        - PAK590055
-        - XB1200G
-        - XB8800
-        - AC58U
-        - ACRH17
-        - AP0141
-        - AP110T
-        - AP112F
-        - AP112F v2
-        - AP112J
-        - AP112Q
-        - AP112T
-        - AP112Y
-        - AP116F
-        - AP116Q
-        - AP117Q
-        - AP118L
-        - AP120
-        - AP126F
-        - AP130F-H
-        - AP130T
-        - AP135T-H
-        - AP136Y-H
-        - AP147
-        - AP153Y-H
-        - AP185W
-        - AP220G
-        - AP222G
-        - AP223G
+        - AP250MDV
+        - AP250XB
         - AP260F-H
         - AP260T-H
+        - AP261F-H
+        - AP261F-H_AP261F-H0
         - AP261Y-H
         - AP262Y-H
         - AP263YS
@@ -163,6 +140,7 @@ body:
         - AP3513NA
         - AP386X
         - AP49
+        - AP601
         - AP630
         - AP630 v2
         - AP675
@@ -177,27 +155,63 @@ body:
         - AP9558
         - AP9558V
         - ARIMA2210
+        - AX1800B
         - AX1800F
+        - AX1800FM
+        - AX1800FM_AX1800FM0
+        - AX1800H
+        - AX1800IoT
         - AX1800MI
+        - AX1800S
         - AX1800Y
         - AX1801-MESH
+        - AX2018-GPON_AX2018GP
+        - AX2018-SFP
+        - AX2018FTR
+        - AX2020
+        - AX2021
+        - AX2021_0AX2021
+        - AX2022
+        - AX2022MQ
         - AX2030A
+        - AX2030FM
+        - AX2030FM_AX2030FM0
+        - AX2034-GPON
+        - AX2034F-GPON_AX2034FPON
+        - AX2034FM
+        - AX2034FM_AX2034FMG
         - AX2034W
+        - AX2034WF
         - AX2180
+        - AX3000AM
+        - AX3000AMX
         - AX3000F
+        - AX3000F-GPON
         - AX3000F-SFP_AX3000FX
+        - AX3000FM
+        - AX3000FMRU
+        - AX3000FM_AX3000FM0
         - AX3000FX
         - AX3000FY
+        - AX3000M-W
+        - AX3000PM
         - AX3000X
+        - AX3000X-W
         - AX3001-MESH
+        - AX3004FM-GPON_AX3000FGPON
+        - AX3025FM
+        - AX3025FM-SFP
+        - AX3025FMN
         - AX3025Y
         - AX3050KY
+        - AX323WNA
         - AX5400KY
         - AX5425Y-3-RU
         - AX5RM
         - AX8180X
         - AX8180Y
         - AX8300A-SFP
+        - AX8300Y
         - AX8301L
         - AX8325Q-SFP_AX8325QF
         - AX8325Q-SFP_AX8325QF0
@@ -205,20 +219,44 @@ body:
         - AX8540Q-3_AX8540Q0
         - AXR3100
         - B3000
+        - BE18710KY-3XG_BE18710KYD5
+        - BE2036FM
+        - BE21610KY-6GXG_BE21610KY6
+        - BE3600FM_EN7563
+        - BE3625FM
+        - BE3625YQ
+        - BE5000FM_EN7563
+        - BE5040XM_EN7563
+        - BE5125FMV2_BE3625YQM7
+        - BE5125FM_EN7563
+        - BE6525JQ-3
+        - BE6525KY-3
+        - BE6525Y-3XGSFP
+        - BE8525KY-SFP
+        - BE9325F-6G
+        - BE9325KY-6G
         - CM520
         - EA1303
+        - FAPM3001
         - FX-2ac
         - HM1800
+        - IK-SW3000G-DP_SW3000GDP
+        - IK-WX3000G-DP_WX3000GDP
         - K2T
         - K2TS
         - MI100
         - N3000
         - N3000V
+        - NE36PRO
+        - PAK590055
+        - VS017
         - WIA3600
         - WP963
         - WP973
         - WP973_V0
         - WPJ563
+        - XB1200G
+        - XB8800
         - XD102
         - XD1202G
     validations:
