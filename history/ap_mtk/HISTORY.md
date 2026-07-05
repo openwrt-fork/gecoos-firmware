@@ -676,6 +676,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AP250_MT7981_K5_WIFI6_3000M_8.1_2026030400.bin)
@@ -697,6 +698,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AP250CD_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -715,6 +717,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AP250MD_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -736,6 +739,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AP250MDV_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -750,6 +754,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AP250XB_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AP250XB_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AP250XB_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AP250XB_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -1122,6 +1127,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX2030FM_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX2030FM_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX2030FM_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX2030FM_MT7981_K5_8.1_2026030400.bin)
@@ -1143,6 +1149,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX2030FM_AX2030FM0_MT7981_K5_8.1_2026030400.bin)
@@ -1164,6 +1171,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX2034-GPON_AX2034GPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026030400.bin)
@@ -1182,6 +1190,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX2034FM_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX2034FM_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX2034FM_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX2034FM_MT7981_K5_8.1_2026030400.bin)
@@ -1195,6 +1204,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX2034FM_AX2034FMG_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX2034FM_AX2034FMG_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX2034FM_AX2034FMG_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX2034FM_AX2034FMG_MT7981_K5_8.1_2026030400.bin)
@@ -1206,6 +1216,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX2034WF_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX2034WF_MT7981_K5_8.1_2026062600.bin)
 
 ## AX3000AM
@@ -1216,6 +1227,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_8.1_2026030400.bin)
@@ -1241,6 +1253,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_8.1_2026030400.bin)
@@ -1270,6 +1283,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000FM_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000FM_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000FM_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000FM_MT7981_K5_8.1_2026030400.bin)
@@ -1291,6 +1305,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000FMRU_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000FMRU_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000FMRU_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000FMRU_MT7981_K5_8.1_2026030400.bin)
@@ -1311,6 +1326,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000FM_AX3000FM0_MT7981_K5_8.1_2026030400.bin)
@@ -1331,6 +1347,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000M-W_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000M-W_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000M-W_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000M-W_MT7981_K5_8.1_2026030400.bin)
@@ -1343,6 +1360,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_8.1_2026030400.bin)
@@ -1364,6 +1382,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3000X-W_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3000X-W_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3000X-W_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3000X-W_MT7981_K5_8.1_2026030400.bin)
@@ -1376,6 +1395,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3004FM-GPON_AX3000FGPON_MT7981_K5_WIFI6_3000M_PON_8.1_2026030400.bin)
@@ -1398,6 +1418,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3025FM_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3025FM_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3025FM_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3025FM_MT7981_K5_8.1_2026030400.bin)
@@ -1419,6 +1440,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3025FM-SFP_AX3025FMSFP_MT7981_K5_8.1_2026030400.bin)
@@ -1439,6 +1461,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX3025FMN_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -1460,6 +1483,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX323WNA_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -1474,6 +1498,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_AX8300Y_MT7981_K5_NAND_8.1_2026030400.bin)
@@ -1489,6 +1514,7 @@
 
 ### 测试版
 
+- [8.2_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026070500/JIKEAP_BE2036FM_MT7987_K5_8.2_2026070500.bin)
 - [8.2_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026062600/JIKEAP_BE2036FM_MT7987_K5_8.2_2026062600.bin)
 - [8.2_2026031700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026031700/JIKEAP_BE2036FM_MT7987_K5_8.2_2026031700.bin)
 - [8.2_2026020900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026020900/JIKEAP_BE2036FM_MT7987_K5_8.2_2026020900.bin)
@@ -1518,6 +1544,7 @@
 
 ### 测试版
 
+- [8.2_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026070500/JIKEAP_BE3625FM_MT7987_K5_8.2_2026070500.bin)
 - [8.2_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026062600/JIKEAP_BE3625FM_MT7987_K5_8.2_2026062600.bin)
 - [8.2_2026031700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026031700/JIKEAP_BE3625FM_MT7987_K5_8.2_2026031700.bin)
 - [8.2_2026020900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026020900/JIKEAP_BE3625FM_MT7987_K5_8.2_2026020900.bin)
@@ -1570,6 +1597,7 @@
 
 ### 测试版
 
+- [8.1_2026070500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026070500/JIKEAP_FAPM3001_MT7981_K5_8.1_2026070500.bin)
 - [8.1_2026062600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026062600/JIKEAP_FAPM3001_MT7981_K5_8.1_2026062600.bin)
 - [8.1_2026030900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030900/JIKEAP_FAPM3001_MT7981_K5_8.1_2026030900.bin)
 - [8.1_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.1_2026030400/JIKEAP_FAPM3001_MT7981_K5_8.1_2026030400.bin)
