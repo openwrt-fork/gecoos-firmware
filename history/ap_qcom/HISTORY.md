@@ -1728,6 +1728,7 @@
 
 ### 测试版
 
+- [8.0_2026070601](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026070601/JIKEAP_AX3000FY_IPQ50XX_8.0_2026070601.bin)
 - [8.0_2026062800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026062800/JIKEAP_AX3000FY_IPQ50XX_8.0_2026062800.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026020700/JIKEAP_AX3000FY_IPQ50XX_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2025122700/JIKEAP_AX3000FY_IPQ50XX_8.0_2025122700.bin)
