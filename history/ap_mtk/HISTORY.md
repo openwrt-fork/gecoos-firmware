@@ -6,6 +6,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP107IOT_MT7620_K4_EPORT_8.0_2025122700.bin)
@@ -27,6 +28,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP110F_MT7628_K4_EPORT_8.0_2025122700.bin)
@@ -48,6 +50,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP118A_MT7628_K4_EPORT_8.0_2025122700.bin)
@@ -73,6 +76,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP118F_MT7628_K4_EPORT_8.0_2025122700.bin)
@@ -94,6 +98,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP118F_AP118F0_MT7628_K4_EPORT_8.0_2025122700.bin)
@@ -119,6 +124,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP118Y_MT7628_K4_EPORT_8.0_2025122700.bin)
@@ -140,6 +146,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP1200M-W_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -158,6 +165,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP210G_MT7620_K4_EPORT_8.0_2025122700.bin)
@@ -179,6 +187,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP212-L_AP212L_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -204,6 +213,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP212G_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -225,6 +235,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP212G_AP212G0_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -246,6 +257,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP212G_WA228AC0V2_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -257,6 +269,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP212G_WA228ACV2_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -271,6 +284,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP213G_MT7620_K4_EPORT_8.0_2025122700.bin)
@@ -292,6 +306,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP216G_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -313,6 +328,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP216TV_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -333,6 +349,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP230EP_MT7620_K4_EPORT_8.0_2025122700.bin)
@@ -354,6 +371,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP230G_MT7620_K4_RTL_EPORT_8.0_2025122700.bin)
@@ -379,6 +397,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP230IP_MT7620_K4_EPORT_8.0_2025122700.bin)
@@ -404,6 +423,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP238AN_MT7628_K4_LEEEL_EPORT_8.0_2025122700.bin)
@@ -425,6 +445,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP238IOT_MT7628_K4_LEEEL_EPORT_8.0_2025122700.bin)
@@ -446,6 +467,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP238MQ_MT7628_K4_LEEEL_EPORT_8.0_2025122700.bin)
@@ -467,6 +489,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP240P_MT7621_K4_SWITCH_LEEEE_EPORT_8.0_2025122700.bin)
@@ -488,6 +511,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP240SFP_MT7621_K4_SWITCH_LEEEE_8.0_2025122700.bin)
@@ -513,6 +537,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP242P_MT7621_K4_LLLLL_64M_8.0_2025122700.bin)
@@ -538,6 +563,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP243P_MT7621_K4_LEEEL_EPORT_8.0_2025122700.bin)
@@ -559,6 +585,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP245P_MT7621_K4_MT7615DN_LEEEL_EPORT_8.0_2025122700.bin)
@@ -584,6 +611,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP246HI_MT7621_K4_1000_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP246HI_MT7621_K4_1000_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP246HI_MT7621_K4_1000_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP246HI_MT7621_K4_1000_8.0_2025122700.bin)
@@ -605,6 +633,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP246ND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025122700.bin)
@@ -626,6 +655,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP246NND_MT7621_K4_MT7603_MT7615N_LLEEL_EPORT_8.0_2025122700.bin)
@@ -651,6 +681,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP246P_MT7621_K4_MT7603_MT7615N_8.0_2025122700.bin)
@@ -769,6 +800,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP261F-H_MT7621_K4_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP261F-H_MT7621_K4_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP261F-H_MT7621_K4_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP261F-H_MT7621_K4_8.0_2025122700.bin)
@@ -790,6 +822,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP261F-H_AP261F-H0_MT7621_K4_8.0_2025122700.bin)
@@ -815,6 +848,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AP601_MT7620_K4_LEEEE_EPORT_8.0_2025122700.bin)
@@ -836,6 +870,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX1800B_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -861,6 +896,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX1800FM_MT7621_K4_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX1800FM_MT7621_K4_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX1800FM_MT7621_K4_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX1800FM_MT7621_K4_8.0_2025122700.bin)
@@ -882,6 +918,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX1800FM_AX1800FM0_MT7621_K4_8.0_2025122700.bin)
@@ -903,6 +940,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX1800H_MT7621_K4_MT7915DN_WIFI6_NAND_8.0_2025122700.bin)
@@ -924,6 +962,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX1800IoT_AX1800IOT_MT7621_K4_8.0_2025122700.bin)
@@ -945,6 +984,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX1800S_MT7621_K4_MT7915DN_WIFI6_8.0_2025122700.bin)
@@ -966,6 +1006,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2018-GPON_AX2018GP_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -987,6 +1028,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2018-SFP_AX2018SFP_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1010,6 +1052,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2020_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1035,6 +1078,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2021_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1056,6 +1100,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2021_0AX2021_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1081,6 +1126,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2022_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1102,6 +1148,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_AX2022MQ_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1628,6 +1675,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_PAK590055_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1649,6 +1697,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_XB1200G_MT7621_K4_EPORT_8.0_2025122700.bin)
@@ -1670,6 +1719,7 @@
 
 ### 测试版
 
+- [8.0_2026072600](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026072600/JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2026072600.bin)
 - [8.0_2026030400](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026030400/JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2026030400.bin)
 - [8.0_2026020700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2026020700/JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2026020700.bin)
 - [8.0_2025122700](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.0_2025122700/JIKEAP_XB8800_MT7620_K4_EPORT_8.0_2025122700.bin)
