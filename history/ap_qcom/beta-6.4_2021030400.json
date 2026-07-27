@@ -1,0 +1,42 @@
+[
+    {
+        "FileName": "JIKEAP_AX1800MI_IPQ60XX_1000M_WIFI6_FREE_6.4_2021030400.bin",
+        "Version": "6.4_2021030400",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800MI",
+        "ReleaseDate": "20210304",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX5RM_IPQ60XX_1000M_WIFI6_FREE_6.4_2021030400.bin",
+        "Version": "6.4_2021030400",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5RM",
+        "ReleaseDate": "20210304",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AX1800MI.img",
+        "Version": "6.4_2021030400",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800MI",
+        "ReleaseDate": "20210304",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AX5RM.img",
+        "Version": "6.4_2021030400",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5RM",
+        "ReleaseDate": "20210304",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

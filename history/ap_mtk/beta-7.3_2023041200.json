@@ -1,0 +1,42 @@
+[
+    {
+        "FileName": "JIKEAP_AP250ND_MT7981_K5_WIFI6_3000M_NAND_FREE_7.3_2023041200.bin",
+        "Version": "7.3_2023041200",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AP250ND",
+        "ReleaseDate": "20230412",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP250_MT7981_K5_WIFI6_3000M_FREE_7.3_2023041200.bin",
+        "Version": "7.3_2023041200",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AP250",
+        "ReleaseDate": "20230412",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_7.3_2023041200.bin",
+        "Version": "7.3_2023041200",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000AMX",
+        "ReleaseDate": "20230412",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_7.3_2023041200.bin",
+        "Version": "7.3_2023041200",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000AM",
+        "ReleaseDate": "20230412",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

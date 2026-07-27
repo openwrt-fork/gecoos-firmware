@@ -1,0 +1,92 @@
+[
+    {
+        "FileName": "JIKEAP_AP250MD_MT7981_K5_NAND_UBI_AUTO_FREE_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AP250MD",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP250_MT7981_K5_WIFI6_3000M_FREE_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AP250",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX2030FM_MT7981_K5_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX2030FM",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000AMX_MT7981_K5_WIFI6_3000M_2_5G_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000AMX",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000AM_MT7981_K5_WIFI6_3000M_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000AM",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000FM_MT7981_K5_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000FM",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000PM_MT7981_K5_WIFI6_3000M_PON_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3000PM",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3025FM_MT7981_K5_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX3025FM",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_FAPM3001_MT7981_K5_7.6_2024051600.bin",
+        "Version": "7.6_2024051600",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "FAPM3001",
+        "ReleaseDate": "20240516",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

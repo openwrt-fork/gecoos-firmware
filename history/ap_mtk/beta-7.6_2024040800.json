@@ -1,0 +1,22 @@
+[
+    {
+        "FileName": "JIKEAP_B3000_IPQ50XX_AR8033_NOR32_EPORT_FREE_7.6_2024040800.bin",
+        "Version": "7.6_2024040800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "B3000_IPQ50XX",
+        "ReleaseDate": "20240408",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_N3000_IPQ50XX_NAND_FREE_7.6_2024040800.bin",
+        "Version": "7.6_2024040800",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "N3000_IPQ50XX",
+        "ReleaseDate": "20240408",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

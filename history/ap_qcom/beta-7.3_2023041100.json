@@ -1,0 +1,942 @@
+[
+    {
+        "FileName": "JIKEAP_AC58U_IPQ40XX_1000M_IPQ4018_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AC58U",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AC58U_IPQ40XX_7.3_2023041100_opboot.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AC58U",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_ACRH17_IPQ40XX_1000M_QCA9984_HT160_EPORT_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "ACRH17",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_ACRH17_IPQ40XX_7.3_2023041100_opboot.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "ACRH17",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP118L_IPQ40XX_1000M_EPORT_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP118L",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP268F-H_IPQ40XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP268F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP268F-IoT_AP268IOT_IPQ40XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP268F-IoT_AP268IOT",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP269X-HG_IPQ40XX_1000M_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP269X-HG",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP285F-H_IPQ40XX_1000M_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP285F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP285KY-H_IPQ40XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP285KY-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320F-H_IPQ40XX_1000M_3RADIO_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320KY-H_IPQ40XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320KY-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320KYRUS_IPQ40XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320KYRUS",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320Y-H_IPQ40XX_1000M_3RADIO_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320YRUS_IPQ40XX_1000M_3RADIO_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320YRUS",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP330F-H_IPQ40XX_1000M_3RADIO_HT160_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP330F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP386X_IPQ40XX_1000M_3RADIO_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP386X",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX1800F_IPQ60XX_1000M_WIFI6_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800F",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX1800Y_IPQ60XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800Y",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX2180_IPQ60XX_1000M_WIFI6_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX2180",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000F-SFP_AX3000FX_IPQ50XX_SFP_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX3000F-SFP_AX3000FX",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000FY_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX3000FY",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3000F_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX3000F",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3001-MESH_AX3001MESH_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX3001-MESH",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3025Y_IPQ807X_2500M_WIFI6_HT160_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX3025Y",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX3050KY_IPQ807X_5000M_WIFI6_HT160_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX3050KY",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX5400KY_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5400KY",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX5RM_IPQ60XX_1000M_WIFI6_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5RM",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX8180X_IPQ60XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX8180X",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX8180Y_IPQ60XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX8180Y",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX8300A-SFP_AX8300ASFP_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX8300A-SFP",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX8300A-SFP_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX8300A-SFP",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX8301L_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX8301L",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AXR3100_IPQ40XX_1000M_QCA9984_HT160_EPORT_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AXR3100",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_B3000_IPQ50XX_AR8033_NOR32_EPORT_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "B3000",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_CM520_IPQ40XX_1000M_NAND_EPORT_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "CM520",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_CM520_IPQ40XX_7.3_2023041100_opboot.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "CM520",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_EA1303_IPQ50XX_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "EA1303",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_HM1800_IPQ60XX_1000M_WIFI6_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "HM1800",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_N3000V_IPQ50XX_NAND_EPORT_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "N3000V",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_N3000_IPQ50XX_NAND_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "N3000",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_WIA3600_IPQ50XX_QCA8337_NAND_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "WIA3600",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_WP963_IPQ50XX_AR8033_NOR16_EPORT_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "WP963",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_WP973_IPQ50XX_NAND_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "WP973",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_WP973_V0_IPQ50XX_NOR_NAND_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "WP973_V0",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AC58U.img",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AC58U",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_ACRH17.img",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "ACRH17",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AX5RM.img",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5RM",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AXR3100.img",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AXR3100",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_CM520.img",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "CM520",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_N3000.img",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "N3000",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP147_QCA953X_100M_QCA9887_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP147",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP153Y-H_QCA953X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP153Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP185W_QCA934X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP185W",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP220G_QCA956X_1000M_QCA9886_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP220G",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP222G_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP222G",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP223G_QCA956X_1000M_QCA9886_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP223G",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP260F-H_QCA953X_100M_QCA9887_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP260F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP260T-H_QCA953X_100M_AR9X82_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP260T-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP261Y-H_QCA953X_100M_QCA9887_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP261Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP262Y-H_QCA956X_1000M_QCA9882_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP262Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP263YS_QCA956X_1000M_QCA9880_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP263YS",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP266G-H_QCA955X_1000M_QCA9880_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP266G-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP267F-H_QCA956X_1000M_QCA9886_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP267F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP267F-Hv2_QCA956X_1000M_QCA9886_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP267F-H v2",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP267KY-H_QCA956X_1000M_QCA9886_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP267KY-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP280F-H_QCA953X_100M_QCA9887_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP280F-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP280Y-H_QCA953X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP280Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP281Y-H_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP281Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP282T-H_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP282T-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP283Y-H_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP283Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP284Y-H_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP284Y-H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP3513NA_QCA934X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP3513NA",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP630_QCA953X_100M_EPORT_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP630",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP630v2_QCA953X_100M_EPORT_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP630 v2",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP675_QCA953X_100M_EPORT_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP675",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP830H_QCA953X_100M_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP830H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP875H_QCA953X_100M_QCA9887_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP875H",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9344_35P0_QCA934X_1000M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9344_35P0",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9344_35P4_QCA934X_1000M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9344_35P4",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9344_8327_QCA934X_1000M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9344_8327",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9344_M100_QCA934X_100M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9344_M100",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9344_RTL_QCA934X_1000M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9344_RTL",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP941_QCA953X_100M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP941",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9558V_QCA955X_1000M_QCA9880_LEEEL_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9558V",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP9558_QCA955X_1000M_QCA9880_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "AP9558",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_ARIMA2210_QCA934X_EPORT_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "ARIMA2210",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_FX-2ac_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "FX-2ac",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_K2TS_QCA956X_1000M_QCA9886_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "K2TS",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_K2T_QCA956X_1000M_QCA9886_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "K2T",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_MI100_QCA934X_100M_FREE_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "MI100",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_WPJ563_QCA956X_1000M_QCA9880_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "WPJ563",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_XD102_QCA953X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "XD102",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_XD1202G_QCA956X_7.3_2023041100.bin",
+        "Version": "7.3_2023041100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_MIPS",
+        "DeviceInfo": "XD1202G",
+        "ReleaseDate": "20230411",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

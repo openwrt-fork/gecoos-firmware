@@ -1,0 +1,42 @@
+[
+    {
+        "FileName": "JIKEAP_AX1800B_MT7621_6.4_2021031103.bin",
+        "Version": "6.4_2021031103",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MIPS",
+        "DeviceInfo": "AX1800B",
+        "ReleaseDate": "20210311",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX1800H_MT7621_MT7915DN_WIFI6_NAND_6.4_2021031103.bin",
+        "Version": "6.4_2021031103",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MIPS",
+        "DeviceInfo": "AX1800H",
+        "ReleaseDate": "20210311",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX1800S_MT7621_MT7915DN_WIFI6_6.4_2021031103.bin",
+        "Version": "6.4_2021031103",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MIPS",
+        "DeviceInfo": "AX1800S",
+        "ReleaseDate": "20210311",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX2020_MT7621_EPORT_6.4_2021031103.bin",
+        "Version": "6.4_2021031103",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_MIPS",
+        "DeviceInfo": "AX2020",
+        "ReleaseDate": "20210311",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

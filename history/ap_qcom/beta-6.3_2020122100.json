@@ -1,0 +1,212 @@
+[
+    {
+        "FileName": "JIKEAP_AC58U_IPQ40XX_1000M_IPQ4018_FREE_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AC58U",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AC58U_IPQ40XX_6.3_2020122100_opboot.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AC58U",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_ACRH17_IPQ40XX_1000M_QCA9984_HT160_FREE_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "ACRH17",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_ACRH17_IPQ40XX_6.3_2020122100_opboot.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "ACRH17",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP118L_IPQ40XX_1000M_EPORT_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP118L",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP269X-HG_IPQ40XX_1000M_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP269X-HG",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP285F-H_IPQ40XX_1000M_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP285F-H",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320F-H_IPQ40XX_1000M_3RADIO_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320F-H",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP320Y-H_IPQ40XX_1000M_3RADIO_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP320Y-H",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP330F-H_IPQ40XX_1000M_3RADIO_HT160_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP330F-H",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AP386X_IPQ40XX_1000M_3RADIO_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AP386X",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX1800MI_IPQ60XX_1000M_WIFI6_FREE_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800MI",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX1800Y_IPQ60XX_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800Y",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX2180_IPQ60XX_1000M_WIFI6_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX2180",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AX5RM_IPQ60XX_1000M_WIFI6_FREE_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5RM",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_AXR3100_IPQ40XX_1000M_QCA9984_HT160_FREE_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AXR3100",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_CM520_IPQ40XX_1000M_NAND_FREE_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "CM520",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_HM1800_IPQ60XX_1000M_WIFI6_6.3_2020122100.bin",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "HM1800",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AX1800MI.img",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX1800MI",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_AX5RM.img",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "AX5RM",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "ubi-JIKEAP_CM520.img",
+        "Version": "6.3_2020122100",
+        "Md5": "",
+        "DeviceType": "集客AP_高通_ARM",
+        "DeviceInfo": "CM520",
+        "ReleaseDate": "20201221",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

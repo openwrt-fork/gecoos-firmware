@@ -1,0 +1,22 @@
+[
+    {
+        "FileName": "JIKEAP_AX5RM_IPQ60XX_1000M_WIFI6_FREE_7.6_2024050500.bin",
+        "Version": "7.6_2024050500",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "AX5RM_IPQ60XX",
+        "ReleaseDate": "20240505",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    },
+    {
+        "FileName": "JIKEAP_N3000_IPQ50XX_NAND_FREE_7.6_2024050500.bin",
+        "Version": "7.6_2024050500",
+        "Md5": "",
+        "DeviceType": "集客AP_MTK_ARM",
+        "DeviceInfo": "N3000_IPQ50XX",
+        "ReleaseDate": "20240505",
+        "DownloadUrl": "",
+        "Source": "user-backup"
+    }
+]

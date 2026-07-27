@@ -55,6 +55,10 @@
         "DeviceInfo": "AP116Q",
         "SupportedModels": null
     },
+    "AP117D": {
+        "DeviceInfo": "AP117D",
+        "SupportedModels": null
+    },
     "AP117Q": {
         "DeviceInfo": "AP117Q",
         "SupportedModels": null
@@ -147,6 +151,10 @@
         "DeviceInfo": "AP213G",
         "SupportedModels": null
     },
+    "AP215G": {
+        "DeviceInfo": "AP215G",
+        "SupportedModels": null
+    },
     "AP216G": {
         "DeviceInfo": "AP216G",
         "SupportedModels": null
@@ -196,6 +204,10 @@
     },
     "AP238MQ": {
         "DeviceInfo": "AP238MQ",
+        "SupportedModels": null
+    },
+    "AP238WN": {
+        "DeviceInfo": "AP238WN",
         "SupportedModels": null
     },
     "AP240P": {
@@ -335,6 +347,10 @@
         "DeviceInfo": "AP250MDV",
         "SupportedModels": null
     },
+    "AP250ND": {
+        "DeviceInfo": "AP250ND",
+        "SupportedModels": null
+    },
     "AP250XB": {
         "DeviceInfo": "AP250XB",
         "SupportedModels": null
@@ -387,8 +403,16 @@
         "DeviceInfo": "AP268F-H",
         "SupportedModels": null
     },
+    "AP268F-IoT": {
+        "DeviceInfo": "AP268F-IoT",
+        "SupportedModels": null
+    },
     "AP268F-IoT_AP268IOT": {
         "DeviceInfo": "AP268F-IoT_AP268IOT",
+        "SupportedModels": null
+    },
+    "AP268IOT": {
+        "DeviceInfo": "AP268IOT",
         "SupportedModels": null
     },
     "AP269X-HG": {
@@ -405,6 +429,10 @@
     },
     "AP281Y-H": {
         "DeviceInfo": "AP281Y-H",
+        "SupportedModels": null
+    },
+    "AP281Y-H v2": {
+        "DeviceInfo": "AP281Y-H v2",
         "SupportedModels": null
     },
     "AP281Y-H_AP281YV2": {
@@ -469,6 +497,10 @@
     },
     "AP601": {
         "DeviceInfo": "AP601",
+        "SupportedModels": null
+    },
+    "AP602": {
+        "DeviceInfo": "AP602",
         "SupportedModels": null
     },
     "AP630": {
@@ -547,6 +579,10 @@
         "DeviceInfo": "AX1800H",
         "SupportedModels": null
     },
+    "AX1800IOT": {
+        "DeviceInfo": "AX1800IOT",
+        "SupportedModels": null
+    },
     "AX1800IoT": {
         "DeviceInfo": "AX1800IoT",
         "SupportedModels": null
@@ -565,6 +601,10 @@
     },
     "AX1801-MESH": {
         "DeviceInfo": "AX1801-MESH",
+        "SupportedModels": null
+    },
+    "AX2018-GPON": {
+        "DeviceInfo": "AX2018-GPON",
         "SupportedModels": null
     },
     "AX2018-GPON_AX2018GP": {
@@ -655,6 +695,10 @@
         "DeviceInfo": "AX3000F-GPON",
         "SupportedModels": null
     },
+    "AX3000F-SFP": {
+        "DeviceInfo": "AX3000F-SFP",
+        "SupportedModels": null
+    },
     "AX3000F-SFP_AX3000FX": {
         "DeviceInfo": "AX3000F-SFP_AX3000FX",
         "SupportedModels": null
@@ -669,6 +713,10 @@
     },
     "AX3000FM_AX3000FM0": {
         "DeviceInfo": "AX3000FM_AX3000FM0",
+        "SupportedModels": null
+    },
+    "AX3000FQ": {
+        "DeviceInfo": "AX3000FQ",
         "SupportedModels": null
     },
     "AX3000FX": {
@@ -701,6 +749,10 @@
     },
     "AX3004FM-GPON_AX3000FGPON": {
         "DeviceInfo": "AX3004FM-GPON_AX3000FGPON",
+        "SupportedModels": null
+    },
+    "AX3025F-SFP": {
+        "DeviceInfo": "AX3025F-SFP",
         "SupportedModels": null
     },
     "AX3025FM": {
@@ -737,6 +789,10 @@
     },
     "AX5RM": {
         "DeviceInfo": "AX5RM",
+        "SupportedModels": null
+    },
+    "AX5RM_IPQ60XX": {
+        "DeviceInfo": "AX5RM_IPQ60XX",
         "SupportedModels": null
     },
     "AX8180X": {
@@ -788,6 +844,10 @@
     },
     "B3000": {
         "DeviceInfo": "B3000",
+        "SupportedModels": null
+    },
+    "B3000_IPQ50XX": {
+        "DeviceInfo": "B3000_IPQ50XX",
         "SupportedModels": null
     },
     "BE18710KY-3XG_BE18710KYD5": {
@@ -928,6 +988,14 @@
         "DeviceInfo": "N3000V",
         "SupportedModels": null
     },
+    "N3000V_IPQ50XX": {
+        "DeviceInfo": "N3000V_IPQ50XX",
+        "SupportedModels": null
+    },
+    "N3000_IPQ50XX": {
+        "DeviceInfo": "N3000_IPQ50XX",
+        "SupportedModels": null
+    },
     "NE36PRO": {
         "DeviceInfo": "NE36PRO",
         "SupportedModels": null
@@ -946,6 +1014,10 @@
                 "IssueId": 18
             }
         ]
+    },
+    "WAP430X": {
+        "DeviceInfo": "WAP430X",
+        "SupportedModels": null
     },
     "WIA3600": {
         "DeviceInfo": "WIA3600",
@@ -969,6 +1041,10 @@
     },
     "XB1200G": {
         "DeviceInfo": "XB1200G",
+        "SupportedModels": null
+    },
+    "XB790SF": {
+        "DeviceInfo": "XB790SF",
         "SupportedModels": null
     },
     "XB8800": {

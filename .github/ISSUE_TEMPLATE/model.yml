@@ -60,6 +60,7 @@ body:
         - AP112Y
         - AP116F
         - AP116Q
+        - AP117D
         - AP117Q
         - AP118A
         - AP118F
@@ -83,6 +84,7 @@ body:
         - AP212G_WA228AC0V2
         - AP212G_WA228ACV2
         - AP213G
+        - AP215G
         - AP216G
         - AP216TV
         - AP220G
@@ -94,6 +96,7 @@ body:
         - AP238AN
         - AP238IOT
         - AP238MQ
+        - AP238WN
         - AP240P
         - AP240SFP
         - AP242P
@@ -107,6 +110,7 @@ body:
         - AP250CD
         - AP250MD
         - AP250MDV
+        - AP250ND
         - AP250XB
         - AP260F-H
         - AP260T-H
@@ -120,11 +124,14 @@ body:
         - AP267F-H v2
         - AP267KY-H
         - AP268F-H
+        - AP268F-IoT
         - AP268F-IoT_AP268IOT
+        - AP268IOT
         - AP269X-HG
         - AP280F-H
         - AP280Y-H
         - AP281Y-H
+        - AP281Y-H v2
         - AP281Y-H_AP281YV2
         - AP282T-H
         - AP283Y-H
@@ -141,6 +148,7 @@ body:
         - AP386X
         - AP49
         - AP601
+        - AP602
         - AP630
         - AP630 v2
         - AP675
@@ -160,11 +168,13 @@ body:
         - AX1800FM
         - AX1800FM_AX1800FM0
         - AX1800H
+        - AX1800IOT
         - AX1800IoT
         - AX1800MI
         - AX1800S
         - AX1800Y
         - AX1801-MESH
+        - AX2018-GPON
         - AX2018-GPON_AX2018GP
         - AX2018-SFP
         - AX2018FTR
@@ -187,10 +197,12 @@ body:
         - AX3000AMX
         - AX3000F
         - AX3000F-GPON
+        - AX3000F-SFP
         - AX3000F-SFP_AX3000FX
         - AX3000FM
         - AX3000FMRU
         - AX3000FM_AX3000FM0
+        - AX3000FQ
         - AX3000FX
         - AX3000FY
         - AX3000M-W
@@ -199,6 +211,7 @@ body:
         - AX3000X-W
         - AX3001-MESH
         - AX3004FM-GPON_AX3000FGPON
+        - AX3025F-SFP
         - AX3025FM
         - AX3025FM-SFP
         - AX3025FMN
@@ -208,6 +221,7 @@ body:
         - AX5400KY
         - AX5425Y-3-RU
         - AX5RM
+        - AX5RM_IPQ60XX
         - AX8180X
         - AX8180Y
         - AX8300A-SFP
@@ -219,6 +233,7 @@ body:
         - AX8540Q-3_AX8540Q0
         - AXR3100
         - B3000
+        - B3000_IPQ50XX
         - BE18710KY-3XG_BE18710KYD5
         - BE2036FM
         - BE21610KY-6GXG_BE21610KY6
@@ -247,15 +262,19 @@ body:
         - MI100
         - N3000
         - N3000V
+        - N3000V_IPQ50XX
+        - N3000_IPQ50XX
         - NE36PRO
         - PAK590055
         - VS017
+        - WAP430X
         - WIA3600
         - WP963
         - WP973
         - WP973_V0
         - WPJ563
         - XB1200G
+        - XB790SF
         - XB8800
         - XD102
         - XD1202G
