@@ -2953,6 +2953,7 @@
 
 ### 测试版
 
+- [8.2_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026081300/JIKEAP_BE2036FM_MT7987_K5_8.2_2026081300.bin)
 - [8.2_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026080900/JIKEAP_BE2036FM_MT7987_K5_8.2_2026080900.bin)
 - [8.2_2026072900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026072900/JIKEAP_BE2036FM_MT7987_K5_8.2_2026072900.bin)
 - [8.2_2026071100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026071100/JIKEAP_BE2036FM_MT7987_K5_8.2_2026071100.bin)
@@ -2988,6 +2989,7 @@
 
 ### 测试版
 
+- [8.2_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026081300/JIKEAP_BE3625FM_MT7987_K5_8.2_2026081300.bin)
 - [8.2_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026080900/JIKEAP_BE3625FM_MT7987_K5_8.2_2026080900.bin)
 - [8.2_2026072900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026072900/JIKEAP_BE3625FM_MT7987_K5_8.2_2026072900.bin)
 - [8.2_2026071100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_mtk-beta-8.2_2026071100/JIKEAP_BE3625FM_MT7987_K5_8.2_2026071100.bin)
