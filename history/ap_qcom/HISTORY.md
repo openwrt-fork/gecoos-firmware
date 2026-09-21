@@ -302,6 +302,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP0141_QCA934X_1000M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP0141_QCA934X_1000M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP0141_QCA934X_1000M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP0141_QCA934X_1000M_8.0_2026080800.bin)
@@ -359,6 +360,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP110T_QCA933X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP110T_QCA933X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP110T_QCA933X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP110T_QCA933X_100M_EPORT_8.0_2026080800.bin)
@@ -416,6 +418,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP112F_QCA953X_100M_16M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP112F_QCA953X_100M_16M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP112F_QCA953X_100M_16M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP112F_QCA953X_100M_16M_EPORT_8.0_2026080800.bin)
@@ -473,6 +476,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP112Fv2_AP112FV2_QCA953X_100M_8M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP112Fv2_AP112FV2_QCA953X_100M_8M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP112Fv2_AP112FV2_QCA953X_100M_8M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP112Fv2_AP112FV2_QCA953X_100M_8M_EPORT_8.0_2026080800.bin)
@@ -526,6 +530,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP112J_QCA953X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP112J_QCA953X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP112J_QCA953X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP112J_QCA953X_100M_EPORT_8.0_2026080800.bin)
@@ -579,6 +584,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP112Q_QCA934X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP112Q_QCA934X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP112Q_QCA934X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP112Q_QCA934X_100M_EPORT_8.0_2026080800.bin)
@@ -632,6 +638,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP112T_QCA953X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP112T_QCA953X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP112T_QCA953X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP112T_QCA953X_100M_EPORT_8.0_2026080800.bin)
@@ -685,6 +692,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP112Y_QCA953X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP112Y_QCA953X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP112Y_QCA953X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP112Y_QCA953X_100M_EPORT_8.0_2026080800.bin)
@@ -742,6 +750,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP116F_QCA953X_100M_QCA9887_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP116F_QCA953X_100M_QCA9887_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP116F_QCA953X_100M_QCA9887_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP116F_QCA953X_100M_QCA9887_EPORT_8.0_2026080800.bin)
@@ -795,6 +804,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP116Q_QCA953X_100M_QCA9887_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP116Q_QCA953X_100M_QCA9887_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP116Q_QCA953X_100M_QCA9887_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP116Q_QCA953X_100M_QCA9887_EPORT_8.0_2026080800.bin)
@@ -862,6 +872,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP117Q_QCA956X_1000M_QCA9882_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP117Q_QCA956X_1000M_QCA9882_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP117Q_QCA956X_1000M_QCA9882_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP117Q_QCA956X_1000M_QCA9882_8.0_2026080800.bin)
@@ -970,6 +981,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP120_QCA934X_1000M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP120_QCA934X_1000M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP120_QCA934X_1000M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP120_QCA934X_1000M_8.0_2026080800.bin)
@@ -1027,6 +1039,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP126F_QCA953X_100M_8M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP126F_QCA953X_100M_8M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP126F_QCA953X_100M_8M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP126F_QCA953X_100M_8M_8.0_2026080800.bin)
@@ -1084,6 +1097,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP130F-H_QCA953X_100M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP130F-H_QCA953X_100M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP130F-H_QCA953X_100M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP130F-H_QCA953X_100M_8.0_2026080800.bin)
@@ -1141,6 +1155,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP130T_QCA934X_100M_AR9341_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP130T_QCA934X_100M_AR9341_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP130T_QCA934X_100M_AR9341_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP130T_QCA934X_100M_AR9341_8.0_2026080800.bin)
@@ -1194,6 +1209,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP135T-H_QCA953X_100M_AR9341_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP135T-H_QCA953X_100M_AR9341_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP135T-H_QCA953X_100M_AR9341_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP135T-H_QCA953X_100M_AR9341_8.0_2026080800.bin)
@@ -1247,6 +1263,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP136Y-H_QCA953X_100M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP136Y-H_QCA953X_100M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP136Y-H_QCA953X_100M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP136Y-H_QCA953X_100M_8.0_2026080800.bin)
@@ -1300,6 +1317,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP147_QCA953X_100M_QCA9887_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP147_QCA953X_100M_QCA9887_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP147_QCA953X_100M_QCA9887_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP147_QCA953X_100M_QCA9887_8.0_2026080800.bin)
@@ -1354,6 +1372,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP153Y-H_QCA953X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP153Y-H_QCA953X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP153Y-H_QCA953X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP153Y-H_QCA953X_8.0_2026080800.bin)
@@ -1408,6 +1427,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP185W_QCA934X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP185W_QCA934X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP185W_QCA934X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP185W_QCA934X_8.0_2026080800.bin)
@@ -1466,6 +1486,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP220G_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP220G_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP220G_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP220G_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -1520,6 +1541,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP222G_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP222G_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP222G_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP222G_QCA956X_8.0_2026080800.bin)
@@ -1565,6 +1587,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP223G_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP223G_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP223G_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP223G_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -1623,6 +1646,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP260F-H_QCA953X_100M_QCA9887_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP260F-H_QCA953X_100M_QCA9887_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP260F-H_QCA953X_100M_QCA9887_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP260F-H_QCA953X_100M_QCA9887_8.0_2026080800.bin)
@@ -1677,6 +1701,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP260T-H_QCA953X_100M_AR9X82_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP260T-H_QCA953X_100M_AR9X82_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP260T-H_QCA953X_100M_AR9X82_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP260T-H_QCA953X_100M_AR9X82_8.0_2026080800.bin)
@@ -1734,6 +1759,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP261Y-H_QCA953X_100M_QCA9887_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP261Y-H_QCA953X_100M_QCA9887_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP261Y-H_QCA953X_100M_QCA9887_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP261Y-H_QCA953X_100M_QCA9887_8.0_2026080800.bin)
@@ -1791,6 +1817,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP262Y-H_QCA956X_1000M_QCA9882_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP262Y-H_QCA956X_1000M_QCA9882_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP262Y-H_QCA956X_1000M_QCA9882_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP262Y-H_QCA956X_1000M_QCA9882_8.0_2026080800.bin)
@@ -1847,6 +1874,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP263YS_QCA956X_1000M_QCA9880_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP263YS_QCA956X_1000M_QCA9880_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP263YS_QCA956X_1000M_QCA9880_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP263YS_QCA956X_1000M_QCA9880_8.0_2026080800.bin)
@@ -1904,6 +1932,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP266G-H_QCA955X_1000M_QCA9880_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP266G-H_QCA955X_1000M_QCA9880_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP266G-H_QCA955X_1000M_QCA9880_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP266G-H_QCA955X_1000M_QCA9880_8.0_2026080800.bin)
@@ -1961,6 +1990,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP267F-H_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP267F-H_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP267F-H_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP267F-H_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -2018,6 +2048,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP267F-Hv2_AP267F-HV2_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP267F-Hv2_AP267F-HV2_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP267F-Hv2_AP267F-HV2_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP267F-Hv2_AP267F-HV2_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -2071,6 +2102,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP267KY-H_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP267KY-H_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP267KY-H_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP267KY-H_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -2276,6 +2308,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP280F-H_QCA953X_100M_QCA9887_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP280F-H_QCA953X_100M_QCA9887_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP280F-H_QCA953X_100M_QCA9887_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP280F-H_QCA953X_100M_QCA9887_8.0_2026080800.bin)
@@ -2329,6 +2362,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP280Y-H_QCA953X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP280Y-H_QCA953X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP280Y-H_QCA953X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP280Y-H_QCA953X_8.0_2026080800.bin)
@@ -2373,6 +2407,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP281Y-H_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP281Y-H_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP281Y-H_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP281Y-H_QCA956X_8.0_2026080800.bin)
@@ -2434,6 +2469,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP281Y-H_AP281YV2_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP281Y-H_AP281YV2_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP281Y-H_AP281YV2_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP281Y-H_AP281YV2_QCA956X_8.0_2026080800.bin)
@@ -2468,6 +2504,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP282T-H_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP282T-H_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP282T-H_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP282T-H_QCA956X_8.0_2026080800.bin)
@@ -2521,6 +2558,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP283Y-H_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP283Y-H_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP283Y-H_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP283Y-H_QCA956X_8.0_2026080800.bin)
@@ -2572,6 +2610,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP284Y-H_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP284Y-H_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP284Y-H_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP284Y-H_QCA956X_8.0_2026080800.bin)
@@ -3022,6 +3061,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP3513NA_QCA934X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP3513NA_QCA934X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP3513NA_QCA934X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP3513NA_QCA934X_8.0_2026080800.bin)
@@ -3130,6 +3170,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP49_QCA953X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP49_QCA953X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP49_QCA953X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP49_QCA953X_8.0_2026080800.bin)
@@ -3187,6 +3228,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP630_QCA953X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP630_QCA953X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP630_QCA953X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP630_QCA953X_100M_EPORT_8.0_2026080800.bin)
@@ -3244,6 +3286,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP630v2_AP630V2_QCA953X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP630v2_AP630V2_QCA953X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP630v2_AP630V2_QCA953X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP630v2_AP630V2_QCA953X_100M_EPORT_8.0_2026080800.bin)
@@ -3301,6 +3344,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP675_QCA953X_100M_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP675_QCA953X_100M_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP675_QCA953X_100M_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP675_QCA953X_100M_EPORT_8.0_2026080800.bin)
@@ -3358,6 +3402,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP830H_QCA953X_100M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP830H_QCA953X_100M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP830H_QCA953X_100M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP830H_QCA953X_100M_8.0_2026080800.bin)
@@ -3415,6 +3460,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP875H_QCA953X_100M_QCA9887_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP875H_QCA953X_100M_QCA9887_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP875H_QCA953X_100M_QCA9887_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP875H_QCA953X_100M_QCA9887_8.0_2026080800.bin)
@@ -3472,6 +3518,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9344_35P0_AP9344P0_QCA934X_1000M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9344_35P0_AP9344P0_QCA934X_1000M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9344_35P0_AP9344P0_QCA934X_1000M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9344_35P0_AP9344P0_QCA934X_1000M_8.0_2026080800.bin)
@@ -3529,6 +3576,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9344_35P4_AP9344P4_QCA934X_1000M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9344_35P4_AP9344P4_QCA934X_1000M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9344_35P4_AP9344P4_QCA934X_1000M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9344_35P4_AP9344P4_QCA934X_1000M_8.0_2026080800.bin)
@@ -3582,6 +3630,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9344_8327_QCA934X_1000M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9344_8327_QCA934X_1000M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9344_8327_QCA934X_1000M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9344_8327_QCA934X_1000M_8.0_2026080800.bin)
@@ -3635,6 +3684,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9344_M100_QCA934X_100M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9344_M100_QCA934X_100M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9344_M100_QCA934X_100M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9344_M100_QCA934X_100M_8.0_2026080800.bin)
@@ -3688,6 +3738,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9344_RTL_QCA934X_1000M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9344_RTL_QCA934X_1000M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9344_RTL_QCA934X_1000M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9344_RTL_QCA934X_1000M_8.0_2026080800.bin)
@@ -3745,6 +3796,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP941_QCA953X_100M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP941_QCA953X_100M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP941_QCA953X_100M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP941_QCA953X_100M_8.0_2026080800.bin)
@@ -3802,6 +3854,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9558_QCA955X_1000M_QCA9880_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9558_QCA955X_1000M_QCA9880_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9558_QCA955X_1000M_QCA9880_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9558_QCA955X_1000M_QCA9880_8.0_2026080800.bin)
@@ -3855,6 +3908,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_AP9558V_QCA955X_1000M_QCA9880_LEEEL_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_AP9558V_QCA955X_1000M_QCA9880_LEEEL_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_AP9558V_QCA955X_1000M_QCA9880_LEEEL_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_AP9558V_QCA955X_1000M_QCA9880_LEEEL_8.0_2026080800.bin)
@@ -3899,6 +3953,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_ARIMA2210_QCA934X_EPORT_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_ARIMA2210_QCA934X_EPORT_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_ARIMA2210_QCA934X_EPORT_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_ARIMA2210_QCA934X_EPORT_8.0_2026080800.bin)
@@ -5300,6 +5355,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE3625YQ_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092000/JIKEAP_BE3625YQ_IPQ53XX_8.1_2026092000.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE3625YQ_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE3625YQ_IPQ53XX_8.1_2026081300.bin)
@@ -5312,6 +5368,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE5125FMV2_BE3625YQM7_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE5125FMV2_BE3625YQM7_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE5125FMV2_BE3625YQM7_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE5125FMV2_BE3625YQM7_IPQ53XX_8.1_2026080900.bin)
@@ -5323,6 +5380,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE6525JQ-3_BE6525JQ3_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE6525JQ-3_BE6525JQ3_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE6525JQ-3_BE6525JQ3_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE6525JQ-3_BE6525JQ3_IPQ53XX_8.1_2026080900.bin)
@@ -5332,6 +5390,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE6525KY-3_BE6525KY3_IPQ53XX_8.1_2026080900.bin)
@@ -5347,6 +5406,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE6525Y-3XGSFP_BE6525Y3XGSFP_IPQ53XX_8.1_2026080900.bin)
@@ -5359,6 +5419,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE8525KY-SFP_BE8525KYSFP_IPQ53XX_8.1_2026080900.bin)
@@ -5373,6 +5434,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE9325F-6G_BE9325F6G_IPQ53XX_8.1_2026080900.bin)
@@ -5388,6 +5450,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_BE9325KY-6G_BE9325KY6G_IPQ53XX_8.1_2026080900.bin)
@@ -5403,6 +5466,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_BE9325KY-6G-X_BE9325KY6GX_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092000/JIKEAP_BE9325KY-6G-X_BE9325KY6GX_IPQ53XX_8.1_2026092000.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_BE9325KY-6G-X_BE9325KY6GX_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_BE9325KY-6G-X_BE9325KY6GX_IPQ53XX_8.1_2026081300.bin)
@@ -5606,6 +5670,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_FX-2ac_FX2AC_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_FX-2ac_FX2AC_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_FX-2ac_FX2AC_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_FX-2ac_FX2AC_QCA956X_8.0_2026080800.bin)
@@ -5728,6 +5793,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_K2T_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_K2T_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_K2T_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_K2T_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -5770,6 +5836,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_K2TS_QCA956X_1000M_QCA9886_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_K2TS_QCA956X_1000M_QCA9886_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_K2TS_QCA956X_1000M_QCA9886_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_K2TS_QCA956X_1000M_QCA9886_8.0_2026080800.bin)
@@ -5812,6 +5879,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_MI100_QCA934X_100M_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_MI100_QCA934X_100M_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_MI100_QCA934X_100M_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_MI100_QCA934X_100M_8.0_2026080800.bin)
@@ -5980,6 +6048,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_NE36PRO_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092000/JIKEAP_NE36PRO_IPQ53XX_8.1_2026092000.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_NE36PRO_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_NE36PRO_IPQ53XX_8.1_2026081300.bin)
@@ -5996,6 +6065,7 @@
 
 ### 测试版
 
+- [8.1_2026092100](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026092100/JIKEAP_VS017_IPQ53XX_8.1_2026092100.bin)
 - [8.1_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026091500/JIKEAP_VS017_IPQ53XX_8.1_2026091500.bin)
 - [8.1_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026081300/JIKEAP_VS017_IPQ53XX_8.1_2026081300.bin)
 - [8.1_2026080900](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.1_2026080900/JIKEAP_VS017_IPQ53XX_8.1_2026080900.bin)
@@ -6195,6 +6265,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_WPJ563_QCA956X_1000M_QCA9880_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_WPJ563_QCA956X_1000M_QCA9880_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_WPJ563_QCA956X_1000M_QCA9880_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_WPJ563_QCA956X_1000M_QCA9880_8.0_2026080800.bin)
@@ -6248,6 +6319,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_XD102_QCA953X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_XD102_QCA953X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_XD102_QCA953X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_XD102_QCA953X_8.0_2026080800.bin)
@@ -6292,6 +6364,7 @@
 
 ### 测试版
 
+- [8.0_2026092000](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026092000/JIKEAP_XD1202G_QCA956X_8.0_2026092000.bin)
 - [8.0_2026091500](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026091500/JIKEAP_XD1202G_QCA956X_8.0_2026091500.bin)
 - [8.0_2026081300](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026081300/JIKEAP_XD1202G_QCA956X_8.0_2026081300.bin)
 - [8.0_2026080800](https://github.com/openwrt-fork/gecoos-firmware/releases/download/ap_qcom-beta-8.0_2026080800/JIKEAP_XD1202G_QCA956X_8.0_2026080800.bin)
